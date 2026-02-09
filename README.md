@@ -21,12 +21,13 @@ A curated collection of paths for building a life without traditional college. E
 
 | If you want... | Consider these first |
 |----------------|---------------------|
-| Immediate income + housing | Ski resorts, Alaska fishing, dude ranches, summer camps |
+| Immediate income + housing | Ski resorts, Alaska fishing, dude ranches, summer camps, cruise ships |
 | Learn a trade with good pay | Union apprenticeships, solar installation, warehouse/forklift |
-| Travel internationally | Working holiday visas (Australia, NZ, Canada), WWOOF, TEFL |
-| Meaningful work + structure | AmeriCorps (NCCC, VISTA, City Year), Conservation Corps |
-| Flexible schedule | Gig work, virtual assistant, seasonal jobs |
+| Travel internationally | Working holiday visas (Australia, NZ, Canada), au pair programs, cruise ships |
+| Meaningful work + structure | AmeriCorps (NCCC, VISTA, City Year), Conservation Corps, Peace Corps |
+| Flexible schedule | Gig work, virtual assistant, seasonal jobs, tour guiding |
 | Federal job pathway | NPS seasonal, Forest Service, SCA, FEMA Corps |
+| Disaster relief + skills | Team Rubicon, All Hands and Hearts, Habitat AmeriCorps |
 | Minimal startup costs | AmeriCorps programs, Conservation Corps, hostel work exchange |
 
 ---
@@ -39,9 +40,13 @@ A curated collection of paths for building a life without traditional college. E
 | Opportunity | Housing | Startup Cost | Best For |
 |-------------|---------|--------------|----------|
 | [Alaska Fishing Industry](opportunities/work-and-travel/alaska-fishing-industry.md) | 🏠 Provided | Low | Hard workers wanting fast money |
+| [Cruise Ship Positions](opportunities/work-and-travel/cruise-ship-positions.md) | 🏠 Provided | $1,150-2,200 | Travel + save, 70+ hr weeks |
+| [Theme Park Jobs](opportunities/work-and-travel/theme-park-jobs.md) | 🏠 Often | $500-2,000 | Fun environment, Disney/Cedar Point |
 | [Ski Resort Jobs](opportunities/work-and-travel/ski-resort-jobs.md) | 🏠 Often | $1,500-2,500 | Winter in the mountains |
 | [Summer Camp Counselor](opportunities/work-and-travel/summer-camp-counselor.md) | 🏠 Provided | Low | Working with kids outdoors |
 | [Dude Ranch Work](opportunities/work-and-travel/dude-ranch-work.md) | 🏠 Provided | Low | Horses and western lifestyle |
+| [Tour Guide / Adventure Tourism](opportunities/work-and-travel/tour-guide-adventure-tourism.md) | Varies | $200-2,500 | Outdoors, people, tips |
+| [Au Pair Programs](opportunities/work-and-travel/au-pair-programs.md) | 🏠 Provided | $900-2,250 | Live abroad, childcare |
 | [Hostel Work Exchange](opportunities/work-and-travel/hostel-work-exchange.md) | 🏠 Provided | $50-100 | Budget travel, meeting people |
 | [WWOOF](opportunities/work-and-travel/wwoof.md) | 🏠 Provided | $40-70 | Organic farming, rural living |
 | [Working Holiday - Australia](opportunities/work-and-travel/working-holiday-visa-australia.md) | Your cost | $2,000-4,000 | Year abroad, high wages |
@@ -75,15 +80,29 @@ A curated collection of paths for building a life without traditional college. E
 |-------------|---------|---------|-----------------|----------|
 | [AmeriCorps NCCC](opportunities/service-and-volunteer/americorps-nccc.md) | ~$350/mo | 🏠 Provided | $7,395 | 10 months |
 | [AmeriCorps VISTA](opportunities/service-and-volunteer/americorps-vista.md) | ~$1,100/mo | Your cost | $7,395 | 12 months |
+| [Habitat for Humanity AmeriCorps](opportunities/service-and-volunteer/habitat-for-humanity-americorps.md) | ~$1,700-2,125/mo | Varies | $7,395 | 10-12 months |
 | [City Year](opportunities/service-and-volunteer/city-year.md) | ~$500/mo | Your cost | $7,395 | 10 months |
 | [FEMA Corps](opportunities/service-and-volunteer/fema-corps.md) | ~$350/mo | 🏠 Provided | $7,395 | 10 months |
 | [Conservation Corps](opportunities/service-and-volunteer/conservation-corps.md) | Varies | Often provided | Often eligible | 3-12 months |
 | [Student Conservation Association](opportunities/service-and-volunteer/student-conservation-association.md) | Varies | 🏠 Provided | Often eligible | 4-52 weeks |
+| [Team Rubicon](opportunities/service-and-volunteer/team-rubicon.md) | Unpaid | 🏠 During ops | None | Flexible |
+| [All Hands and Hearts](opportunities/service-and-volunteer/all-hands-and-hearts.md) | Unpaid | 🏠 Provided | None | Flexible |
 | [National Park Service Seasonal](opportunities/service-and-volunteer/national-park-service-seasonal.md) | $15-20/hr | Sometimes | None | 3-6 months |
 | [US Forest Service Seasonal](opportunities/service-and-volunteer/us-forest-service-seasonal.md) | $13-23/hr | Rarely | None | 3-6 months |
 | [State Park Seasonal](opportunities/service-and-volunteer/state-park-seasonal.md) | $15-20/hr | Sometimes | None | 3-6 months |
 | [TEFL Certification](opportunities/service-and-volunteer/tefl-certification.md) | N/A | N/A | N/A | 4-12 weeks |
 | [NOLS Instructor Path](opportunities/service-and-volunteer/nols-instructor-path.md) | Paid after training | Varies | None | 2+ years |
+
+#### Teaching Abroad (Requires Bachelor's Degree)
+*These are excellent opportunities but require a completed bachelor's degree. Documented for future reference.*
+
+| Opportunity | Pay | Housing | Degree Required | Duration |
+|-------------|-----|---------|-----------------|----------|
+| [Peace Corps](opportunities/service-and-volunteer/peace-corps.md) | ~$400/mo + $10k exit | 🏠 Provided | Most sectors | 27 months |
+| [JET Program (Japan)](opportunities/service-and-volunteer/jet-program-japan.md) | ~$2,200/mo | 🏠 Arranged | Yes | 12 months |
+| [EPIK (South Korea)](opportunities/service-and-volunteer/epik-korea.md) | ~$1,700-2,100/mo | 🏠 Provided | Yes | 12 months |
+| [Teaching English - China](opportunities/service-and-volunteer/teaching-english-china.md) | ~$1,500-3,800/mo | 🏠 Often | Yes | 12 months |
+| [Teaching English - Vietnam](opportunities/service-and-volunteer/teaching-english-vietnam.md) | ~$1,100-1,750/mo | Your cost | Yes | 12 months |
 
 **Category overview:** [Service & Volunteer Overview](opportunities/service-and-volunteer/OVERVIEW.md)
 
@@ -108,9 +127,6 @@ These haven't been fully documented yet but are worth researching:
 ### More Work & Travel Options
 | Opportunity | Key Info | Where to Start |
 |-------------|----------|----------------|
-| **Cruise Ship Jobs** | 4-10 month contracts, free room/board, 70+ hour weeks, need STCW cert (~$1,200) | royalcareersatsea.com, carnival.com/careers |
-| **Au Pair Programs** | Live with host family, childcare, 1-2 years, cultural exchange visa | aupairworld.com, culturalcare.com |
-| **Theme Park Jobs** | Seasonal, often housing available, Disney/Universal have programs | disneycareers.com, universalorlando.com/careers |
 | **Yacht Crew** | Need STCW + ENG1 medical, start as deckhand/steward, $2,500-4,000/mo | crewbay.com, dockwalk.com |
 | **WHV - Ireland** | 12 months, lottery system, need $2,500+ savings | dfa.ie/travel/visas/working-holiday |
 | **WHV - Japan** | 12 months, need degree or 2+ years work experience, $2,000 savings | mofa.go.jp |
@@ -131,13 +147,9 @@ These haven't been fully documented yet but are worth researching:
 ### More Service & Volunteer
 | Opportunity | Key Info | Where to Start |
 |-------------|----------|----------------|
-| **Peace Corps** | 27 months abroad, requires bachelor's for most positions, ~$10k readjustment | peacecorps.gov |
-| **JET Program (Japan)** | Teach English, requires bachelor's, ~$22-25k/year, flights paid | jetprogramusa.org |
-| **EPIK (South Korea)** | Teach English, requires bachelor's, ~$1,800-2,700/mo, housing provided | epik.go.kr |
 | **Outward Bound** | Similar to NOLS, instructor path requires courses first | outwardbound.org |
-| **Habitat for Humanity AmeriCorps** | 10-12 months, construction focus, $7,395 education award | habitat.org/americorps |
-| **Team Rubicon** | Disaster response, veterans preferred but not required, volunteer-based | teamrubiconusa.org |
-| **All Hands and Hearts** | Disaster response, volunteer programs 2-12 weeks | allhandsandhearts.org |
+| **Red Cross Disaster Response** | Volunteer-based, training provided, deployments vary | redcross.org |
+| **Public Allies** | 10-month AmeriCorps program, leadership focus | publicallies.org |
 
 ### More Entrepreneurship
 | Opportunity | Key Info | Where to Start |
@@ -184,13 +196,19 @@ Conservation Corps → SCA → Forest Service/NPS permanent
                    ↘
 AmeriCorps NCCC → FEMA Corps → Emergency Management careers
                 ↘
-                  City Year → Teaching → Education careers
+Habitat AmeriCorps → Construction trades → Union apprenticeships
 
-Union Apprentice → Journeyman → Contractor/Business owner
+Team Rubicon/All Hands → Disaster management → FEMA careers
+
+Cruise Ships → Hospitality management → Shore-side positions
+
+Tour Guide → Adventure company → Own tour business
+
+Theme Parks → Disney Aspire (free degree) → Professional careers
 
 Seasonal Work → Multiple seasons → Management → Year-round positions
 
-Working Holiday → TEFL Certification → Teaching abroad long-term
+Working Holiday → TEFL Certification → Teaching abroad (with degree)
 
 Gig Work → Build savings → Van Life → Remote work + travel
 ```
@@ -199,7 +217,7 @@ Gig Work → Build savings → Van Life → Remote work + travel
 
 ## Project Status
 
-**29 opportunities fully documented and fact-checked.**
+**41 opportunities fully documented and fact-checked.**
 
 See [STATUS.md](STATUS.md) for detailed tracking of what's been researched and verified.
 

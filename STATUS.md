@@ -6,9 +6,9 @@ Last updated: 2026-02-09
 
 | Category | Overview | Drafted | Verified | Remaining HIGH |
 |----------|----------|---------|----------|----------------|
-| Work & Travel | Done | 0 | 10 | 0 |
+| Work & Travel | Done | 0 | 14 | 0 |
 | Skills & Trades | Done | 0 | 5 | 0 |
-| Service & Volunteer | Done | 0 | 12 | 0 |
+| Service & Volunteer | Done | 0 | 20 | 0 |
 | Entrepreneurship | Done | 0 | 2 | 0 |
 
 ---
@@ -39,6 +39,10 @@ Last updated: 2026-02-09
 | Summer Camp Counselor | `summer-camp-counselor.md` | 2026-02-09 |
 | Dude Ranch Work | `dude-ranch-work.md` | 2026-02-09 |
 | Hostel Work Exchange | `hostel-work-exchange.md` | 2026-02-09 |
+| Cruise Ship Positions | `cruise-ship-positions.md` | 2026-02-09 |
+| Theme Park Jobs | `theme-park-jobs.md` | 2026-02-09 |
+| Au Pair Programs | `au-pair-programs.md` | 2026-02-09 |
+| Tour Guide / Adventure Tourism | `tour-guide-adventure-tourism.md` | 2026-02-09 |
 
 ### Draft (Needs Fact Check)
 (none)
@@ -51,11 +55,7 @@ Last updated: 2026-02-09
 - [ ] Working Holiday Visa - Ireland
 - [ ] Working Holiday Visa - Japan
 - [ ] Working Holiday Visa - South Korea
-- [ ] Cruise ship positions
-- [ ] Au pair programs
 - [ ] Yacht crew
-- [ ] Theme park jobs
-- [ ] Tour guide / adventure tourism
 
 ---
 
@@ -108,26 +108,26 @@ Last updated: 2026-02-09
 | NOLS Instructor Path | `nols-instructor-path.md` | 2026-02-09 |
 | US Forest Service Seasonal | `us-forest-service-seasonal.md` | 2026-02-09 |
 | State Park Seasonal | `state-park-seasonal.md` | 2026-02-09 |
+| Peace Corps | `peace-corps.md` | 2026-02-09 |
+| JET Program (Japan) | `jet-program-japan.md` | 2026-02-09 |
+| EPIK (South Korea) | `epik-korea.md` | 2026-02-09 |
+| Teaching English - China | `teaching-english-china.md` | 2026-02-09 |
+| Teaching English - Vietnam | `teaching-english-vietnam.md` | 2026-02-09 |
+| Habitat for Humanity AmeriCorps | `habitat-for-humanity-americorps.md` | 2026-02-09 |
+| All Hands and Hearts | `all-hands-and-hearts.md` | 2026-02-09 |
+| Team Rubicon | `team-rubicon.md` | 2026-02-09 |
 
 ### Draft (Needs Fact Check)
 (none)
 
 ### Not Started (HIGH Priority)
-(none - all HIGH priority items researched)
+(none - all HIGH priority items complete)
 
 ### Not Started (MED Priority)
-- [ ] Peace Corps
 - [ ] Peace Corps Response
 - [ ] Outward Bound instructor path
-- [ ] Teaching English - South Korea (EPIK)
-- [ ] Teaching English - Japan (JET Program)
-- [ ] Teaching English - China
-- [ ] Teaching English - Vietnam
-- [ ] Habitat for Humanity AmeriCorps
 - [ ] Public Allies
 - [ ] Red Cross disaster response
-- [ ] All Hands and Hearts
-- [ ] Team Rubicon
 
 ---
 
@@ -163,12 +163,22 @@ Last updated: 2026-02-09
 
 ## Next Actions
 
-All HIGH priority items are now verified. README.md created with Table of Contents.
+**All HIGH priority items complete.** 41 verified documents across 4 categories.
 
-Options for continuing:
-1. **Expand quick reference items** - Full documents for cruise ships, CDL, EMT, etc.
-2. **Review and polish** - Read through verified documents for consistency
-3. **Add cross-links** - Ensure Related Opportunities sections link between documents
+**Key findings from this session:**
+- Teaching abroad programs (JET, EPIK, China, Vietnam) all require bachelor's degrees—not accessible to Sam now
+- Best immediate options for Sam:
+  - **Cruise ships:** $900-1,100 upfront for STCW, but free housing/meals and $2,500-4,000+/month possible
+  - **Theme parks:** Cedar Point offers $6-16/day housing; Disney Aspire has $5,250/year education benefit
+  - **Tour guiding:** Backroads pays $60K-110K/year for trip leaders; entry-level starts ~$12-25/hour + tips
+  - **Disaster relief:** Team Rubicon and All Hands and Hearts offer free training and meaningful work (unpaid but skill-building)
+- Teaching programs documented for future reference if Sam pursues a degree
+
+**MED priority items available for future sessions:**
+- Working Holiday Visas: Ireland, Japan, South Korea
+- Skills & Trades: IBEW electrical, plumbing, HVAC, welding, EMT, CDL
+- Service: Outward Bound, Red Cross disaster response
+- Entrepreneurship: Freelance writing, video editing, van life logistics
 
 ## Quick Reference Coverage
 
@@ -201,6 +211,12 @@ The README.md now includes quick reference tables for 30+ additional opportuniti
 | 2026-02-09 | Fact-checked: SCA, FEMA Corps, NOLS, USFS, State Park, VA Work, Gig Work | Verified |
 | 2026-02-09 | All HIGH priority items complete | 29 documents verified |
 | 2026-02-09 | Created README.md with Table of Contents and quick reference tables | Complete |
+| 2026-02-09 | Researched: Cruise Ships, Theme Parks, Au Pair, Tour Guide | 4 drafts |
+| 2026-02-09 | Researched: Peace Corps, JET Program, EPIK Korea | 3 drafts |
+| 2026-02-09 | Researched: Teaching China, Vietnam, Habitat AmeriCorps | 3 drafts |
+| 2026-02-09 | Researched: All Hands and Hearts, Team Rubicon | 2 drafts |
+| 2026-02-09 | Fact-checked: All 12 new documents (Cruise Ships, Theme Parks, Au Pair, Tour Guide, Peace Corps, JET, EPIK, China, Vietnam, Habitat AmeriCorps, All Hands and Hearts, Team Rubicon) | Verified |
+| 2026-02-09 | **Total verified documents** | **41 documents** |
 
 ---
 
@@ -216,3 +232,17 @@ The README.md now includes quick reference tables for 30+ additional opportuniti
 | State Park Seasonal | Pay rates varied | Updated: CA, CO, GA rates corrected to current data |
 | Gig Work Strategies | IRS URL broken | Fixed URL; updated safety statistics with verified sources |
 | Various | Pricing corrections | Worldpackers ($49→$59), NABCEP exam ($150 confirmed), etc. |
+| Cruise Ship Positions | STCW cost outdated | Updated $800-900 → $900-1,100; cabin size typo 9→120 sq ft |
+| Cruise Ship Positions | Disney youth staff requirements | Corrected: 12+ months experience (not 18+) |
+| Au Pair Programs | Netherlands age limit outdated | Updated 18-30 → 18-25 (changed Oct 2022) |
+| Au Pair Programs | Germany language course contribution | Updated 50 EUR → 70 EUR (changed May 2023) |
+| Au Pair Programs | Austria stipend outdated | Updated 395 EUR → 551 EUR |
+| Tour Guide | NYC license cost incomplete | Updated $50 → $75-100 (exam + license) |
+| Tour Guide | Swiftwater rescue cost outdated | Updated $199-600 → $315-600 |
+| EPIK Korea | Missing TEFL requirements | Added Seoul/Gyeongnam 20-hour in-class requirement |
+| EPIK Korea | Missing eligibility note | Added Indian citizenship eligibility under CEPA |
+| EPIK Korea | Hiring status outdated | Added note: Level 3 positions not currently being hired |
+| Teaching China | Document authentication outdated | Updated for Hague Convention (Nov 2023) |
+| Teaching China | Salary data outdated | Updated with 2025/2026 market data |
+| Teaching Vietnam | APAX Leaders status | Marked AVOID: company collapsed, only 1 of 41 HCMC centers remains |
+| Teaching Vietnam | Experience requirement outdated | Updated 5+ years → 2+ years per Decree 219/2025 |
