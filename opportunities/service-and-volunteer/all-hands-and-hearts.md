@@ -8,7 +8,7 @@
 
 All Hands and Hearts (formerly All Hands Volunteers) is a disaster relief nonprofit that deploys volunteers for rebuilding and recovery work worldwide. Unlike many "voluntourism" programs, **there is no program fee**—housing and meals are provided free.
 
-For Sam, this offers hands-on construction experience, international travel opportunities, and meaningful service work with minimal upfront cost. The only expenses are travel to the site and personal gear.
+For young adults, this offers hands-on construction experience, international travel opportunities, and meaningful service work with minimal upfront cost. The only expenses are travel to the site and personal gear.
 
 ## What You'll Do
 
@@ -205,7 +205,7 @@ This experience looks strong on applications for:
 - Jamaica Hurricane Melissa program currently has paused volunteer applications due to high interest
 - Gaza and Ukraine are humanitarian aid operations, not open volunteer programs
 
-**Important context for Sam:**
-This is a legitimate disaster relief organization with no program fees—a significant distinction from exploitative voluntourism programs. However, Sam should be aware of the 2021 safety controversy. The organization acknowledged mishandling harassment/assault allegations, leading to the founder's resignation and organizational reforms. Since then, they have implemented new safeguarding policies and received generally positive volunteer reviews. Sam should review their current safety policies at allhandsandhearts.org/our-commitment-to-wellbeing-and-safety before committing.
+**Important context for young adults:**
+This is a legitimate disaster relief organization with no program fees—a significant distinction from exploitative voluntourism programs. Howeveryou should be aware of the 2021 safety controversy. The organization acknowledged mishandling harassment/assault allegations, leading to the founder's resignation and organizational reforms. Since then, they have implemented new safeguarding policies and received generally positive volunteer reviews. you should review their current safety policies at allhandsandhearts.org/our-commitment-to-wellbeing-and-safety before committing.
 
 **Beware of imposters:** The organization has warned about fraudulent recruiters impersonating them via WhatsApp/Telegram. Only apply through the official website at allhandsandhearts.org/volunteer.

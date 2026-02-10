@@ -8,7 +8,7 @@
 
 State parks across all 50 states hire thousands of seasonal workers each year. These positions cover the same roles as federal parks—visitor services, maintenance, interpretation, lifeguarding—but with a more accessible application process.
 
-This opportunity works for Sam because state parks are generally easier to get into than federal National Park Service or Forest Service jobs. Most states offer entry-level positions with few experience and educational requirements. Many positions accept applicants at age 18 or even 16. The application process is simpler than the federal USAJOBS system. And some states provide housing for seasonal staff.
+This opportunity works for young adults because state parks are generally easier to get into than federal National Park Service or Forest Service jobs. Most states offer entry-level positions with few experience and educational requirements. Many positions accept applicants at age 18 or even 16. The application process is simpler than the federal USAJOBS system. And some states provide housing for seasonal staff.
 
 The catch: pay is often lower than federal positions. Housing availability varies wildly by state and individual park. Benefits for seasonal workers are limited or nonexistent in many states. And like all seasonal work, the job ends when the season does. You may work 4-9 months and then need another plan.
 

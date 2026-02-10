@@ -8,9 +8,9 @@
 
 Vietnam has one of Southeast Asia's largest English teaching markets. The government has made English education a national priority, and demand for foreign teachers is high in Ho Chi Minh City, Hanoi, and Da Nang.
 
-**Critical limitation for Sam:** Vietnam now strictly requires a bachelor's degree for work permits under Decree 219/2025/ND-CP, effective August 7, 2025. This is mandatory with zero exceptions. The only alternative is proving 2+ years of documented teaching experience (reduced from the previous 3-year requirement), which Sam does not have.
+**Critical limitation for young adults:** Vietnam now strictly requires a bachelor's degree for work permits under Decree 219/2025/ND-CP, effective August 7, 2025. This is mandatory with zero exceptions. The only alternative is proving 2+ years of documented teaching experience (reduced from the previous 3-year requirement), which many young adults do not have.
 
-Without a degree, Sam cannot legally work as an English teacher in Vietnam. Some teachers work illegally on tourist visas, but this carries real risks under Decree 282/2025/ND-CP (effective December 15, 2025): fines starting at VND 500,000 for short overstays, deportation for overstays of 16+ days, and entry bans of up to 5 years. Combining visa violations with illegal work creates automatic deportation risk.
+Without a degree, you cannot legally work as an English teacher in Vietnam. Some teachers work illegally on tourist visas, but this carries real risks under Decree 282/2025/ND-CP (effective December 15, 2025): fines starting at VND 500,000 for short overstays, deportation for overstays of 16+ days, and entry bans of up to 5 years. Combining visa violations with illegal work creates automatic deportation risk.
 
 ## What You'll Do
 
@@ -141,7 +141,7 @@ $500-$1,000/month if living modestly.
 
 ### The Degree Requirement Blocks Many
 
-This is the biggest barrier for Sam. No realistic workaround exists. Some teach illegally on tourist visas, but risks are real—fines, deportation, no labor protection.
+This is the biggest barrier for young adults. No realistic workaround exists. Some teach illegally on tourist visas, but risks are real—fines, deportation, no labor protection.
 
 ### Bureaucracy
 
@@ -242,5 +242,5 @@ Some schools pay late, promise undelivered benefits, or add unpaid work. Researc
 - HCMC rent figures were slightly low; updated to reflect 2026 market (central areas now $450-900 for 1BR)
 - APAX Leaders was listed as "research carefully" — company has essentially collapsed and should be avoided entirely
 
-**Key note for Sam:**
-Vietnam requires a bachelor's degree. Without one, Sam cannot legally teach there. If Sam gets a degree in the future, Vietnam offers excellent savings potential with low cost of living. The 90-day short-term exemption does NOT help Sam—it's for visiting instructors, not long-term teaching positions.
+**Key note for young adults:**
+Vietnam requires a bachelor's degree. Without one, you cannot legally teach there. If you get a degree in the future, Vietnam offers excellent savings potential with low cost of living. The 90-day short-term exemption does NOT help—it's for visiting instructors, not long-term teaching positions.

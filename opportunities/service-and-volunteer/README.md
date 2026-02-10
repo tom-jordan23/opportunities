@@ -14,6 +14,6 @@ Structured programs for giving back while gaining experience.
 - National Park Service programs
 - Habitat for Humanity
 
-## Priority for Sam
+## Priority for young adults
 
 High for programs with stipends or living allowances. Lower priority for purely volunteer positions unless they provide housing and food.

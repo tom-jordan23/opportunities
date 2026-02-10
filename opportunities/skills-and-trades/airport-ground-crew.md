@@ -8,7 +8,7 @@
 
 Airport ramp agents are the ground crew who keep planes moving. You load and unload baggage, marshal aircraft to gates, operate ground support equipment, and handle cargo. The job requires no prior experience or degree. You start earning immediately with paid training.
 
-For Sam, this opportunity has a particular advantage: flight benefits. Most airline employers offer free or heavily discounted standby travel for employees and their families. This means access to cheap flights worldwide while earning a steady paycheck. The tradeoff is demanding physical work in extreme weather, irregular hours that disrupt normal life, and a high-turnover environment where less than 40% of new hires stay past the first few months.
+For young adults, this opportunity has a particular advantage: flight benefits. Most airline employers offer free or heavily discounted standby travel for employees and their families. This means access to cheap flights worldwide while earning a steady paycheck. The tradeoff is demanding physical work in extreme weather, irregular hours that disrupt normal life, and a high-turnover environment where less than 40% of new hires stay past the first few months.
 
 ## What You'll Do
 

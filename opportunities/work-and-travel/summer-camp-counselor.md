@@ -10,7 +10,7 @@ Summer camp counselor work combines seasonal employment with an immersive experi
 
 This is not easy money. You will be responsible for children 24 hours a day at overnight camps. The pay is low relative to the hours worked. But you will develop leadership, problem-solving, and communication skills that employers value. You will also live in a community with other young adults in settings ranging from lakeside cabins to mountain wilderness.
 
-For Sam, this is worth considering if he enjoys working with kids and wants a summer experience that builds real skills. The low barrier to entry—no special training required for most positions—makes this accessible right now.
+For young adults, this is worth considering if he enjoys working with kids and wants a summer experience that builds real skills. The low barrier to entry—no special training required for most positions—makes this accessible right now.
 
 ## What You'll Do
 

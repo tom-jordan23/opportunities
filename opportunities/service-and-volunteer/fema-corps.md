@@ -8,7 +8,7 @@
 
 FEMA Corps is a 10-month service program that puts you directly inside the Federal Emergency Management Agency. You work alongside FEMA professionals on disaster preparedness, response, and recovery. You travel to disaster sites across the country. You learn emergency management from the inside.
 
-This program solves several problems for Sam. Housing is provided. Food is covered. Travel is paid. You earn a $7,395 education award upon completion. Most importantly, FEMA Corps serves as a direct pipeline to federal employment with FEMA after your service ends.
+This program solves several problems for young adults. Housing is provided. Food is covered. Travel is paid. You earn a $7,395 education award upon completion. Most importantly, FEMA Corps serves as a direct pipeline to federal employment with FEMA after your service ends.
 
 The tradeoffs are real. The biweekly stipend of roughly $181 before taxes is below poverty level. You live with your team in shared quarters. You follow strict rules about where you can go and when. Disasters happen when they happen, which means your schedule is unpredictable. Holiday plans may be cancelled. But if emergency management interests you, this is one of the best entry points available.
 
@@ -275,7 +275,7 @@ Beyond FEMA, the experience prepares you for:
 - Travel to/from campus paid: CONFIRMED
 
 **CRITICAL UPDATE - Program Status:**
-In April 2025, FEMA Corps members were demobilized as part of DOGE cuts affecting AmeriCorps. A federal judge ordered restoration of demobilized members in June 2025. As of February 2026, the program continues to operate at reduced capacity (up to 170 FEMA Corps members per AmeriCorps lapse plan). The program is accepting applications for future cohorts (Winter 2026 listing visible). Sam should verify current program status before applying due to ongoing federal funding uncertainty.
+In April 2025, FEMA Corps members were demobilized as part of DOGE cuts affecting AmeriCorps. A federal judge ordered restoration of demobilized members in June 2025. As of February 2026, the program continues to operate at reduced capacity (up to 170 FEMA Corps members per AmeriCorps lapse plan). The program is accepting applications for future cohorts (Winter 2026 listing visible). you should verify current program status before applying due to ongoing federal funding uncertainty.
 
 **Links Status:**
 - AmeriCorps FEMA Corps page: Active (verified via search results)

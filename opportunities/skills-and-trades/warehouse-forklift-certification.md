@@ -10,7 +10,7 @@ Warehouse work offers one of the fastest paths from zero experience to stable pa
 
 Adding forklift certification bumps your pay by $3-7 per hour and opens better positions. The best part: most large employers provide forklift training for free once you are hired. You do not need to pay for certification before getting a job.
 
-For Sam, this is a low-barrier entry point. You can start earning immediately while building a credential that increases your value. The work is physically demanding and can be mentally monotonous, but it pays the bills while you figure out next steps.
+For young adults, this is a low-barrier entry point. You can start earning immediately while building a credential that increases your value. The work is physically demanding and can be mentally monotonous, but it pays the bills while you figure out next steps.
 
 ## What You'll Do
 
@@ -98,7 +98,7 @@ Most large warehouse employers train entry-level workers on forklifts for free. 
 4. Complete in-house training program
 5. Receive certification at no cost to you
 
-This is the smart approach for Sam. You earn wages while waiting for training, pay nothing for certification, and learn on the exact equipment you will use.
+This is the smart approach for young adults. You earn wages while waiting for training, pay nothing for certification, and learn on the exact equipment you will use.
 
 **Option 2: Paid Training Before Employment**
 

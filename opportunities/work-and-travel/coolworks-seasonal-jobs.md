@@ -8,7 +8,7 @@
 
 Coolworks is a job board that connects people with seasonal work in national parks, ski resorts, dude ranches, summer camps, fishing lodges, and other outdoor destinations. It is not an employer. Coolworks lists jobs from hundreds of employers across the United States.
 
-This matters for Sam because many of these jobs provide housing. When you have limited funds and want to travel, a job that includes a place to live solves two problems at once. You earn money while experiencing places most people only visit on vacation.
+This matters for young adults because many of these jobs provide housing. When you have limited funds and want to travel, a job that includes a place to live solves two problems at once. You earn money while experiencing places most people only visit on vacation.
 
 The trade-off is clear. These are entry-level jobs with modest pay. You will not build savings quickly. But you will have minimal expenses, meet people from around the world, and live in places like Yellowstone, Grand Teton, or a ski resort in Colorado.
 
@@ -173,7 +173,7 @@ Most seasonal employers provide housing. This is the key benefit. Here is what "
 
 1. **Create a Coolworks account.** Go to coolworks.com and sign up. This is free. You can save searches, favorite employers, and get alerts for new postings.
 
-2. **Filter for housing.** Click "Jobs with Housing" to see only positions that provide a place to live. This is essential for Sam's situation.
+2. **Filter for housing.** Click "Jobs with Housing" to see only positions that provide a place to live. This is essential for young adults's situation.
 
 3. **Research the hiring timeline.** Summer jobs: apply January through March. Winter jobs: apply July through September. Earlier is better.
 

@@ -10,7 +10,7 @@ WWOOF connects volunteers with organic farms worldwide. You work 4-6 hours per d
 
 The organization has operated since 1971. Today, WWOOF operates in over 130 countries with more than 12,000 hosts and 100,000 active volunteers. Each country runs its own independent WWOOF organization with separate membership.
 
-This matters for Sam because WWOOF solves the housing and food problem without requiring savings. For the cost of a membership fee—typically $20-50 per year—you can live and eat for free while learning practical skills. You experience rural life in places tourists never see. You meet people who have chosen alternative lifestyles. The trade-off is clear. You work for no pay, often in isolated locations, with no guarantee of a good experience.
+This matters for young adults because WWOOF solves the housing and food problem without requiring savings. For the cost of a membership fee—typically $20-50 per year—you can live and eat for free while learning practical skills. You experience rural life in places tourists never see. You meet people who have chosen alternative lifestyles. The trade-off is clear. You work for no pay, often in isolated locations, with no guarantee of a good experience.
 
 ## What You'll Do
 

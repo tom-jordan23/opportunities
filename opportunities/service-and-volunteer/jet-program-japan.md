@@ -8,7 +8,7 @@
 
 The JET Programme is a Japanese government initiative that places native English speakers in schools and government offices across Japan. Running since 1987, it's one of the most established and best-paid teaching abroad programs in the world.
 
-**Important for Sam:** JET requires a completed bachelor's degree by the departure date. If Sam is 20 without a degree, he is not currently eligible. This is a firm requirement with no exceptions. However, this document is valuable for future planning—JET is worth pursuing after completing any four-year degree in any field.
+**Important for young adults:** JET requires a completed bachelor's degree by the departure date. If the reader is under 21 without a degree, he is not currently eligible. This is a firm requirement with no exceptions. However, this document is valuable for future planning—JET is worth pursuing after completing any four-year degree in any field.
 
 ## What You'll Do
 
@@ -227,5 +227,5 @@ Many JETs struggle when returning home. The transition back can be harder than t
 - reddit.com/r/JETProgramme/ — Working (blocks automated requests but subreddit is active)
 - ajet.net — Working (HTTP 200)
 
-**Key note for Sam:**
-JET requires a bachelor's degree. Sam cannot apply without one. However, if Sam pursues any four-year degree in the future, JET is one of the best teaching abroad options available—well-paid, well-supported, and legitimate.
+**Key note for young adults:**
+JET requires a bachelor's degree. you cannot apply without one. However, if you pursue any four-year degree in the future, JET is one of the best teaching abroad options available—well-paid, well-supported, and legitimate.

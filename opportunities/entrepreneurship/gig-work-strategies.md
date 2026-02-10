@@ -10,7 +10,7 @@ Gig economy work means driving for DoorDash, walking dogs through Rover, assembl
 
 But gig work is not passive income. It trades one set of problems for another. You gain flexibility and lose stability. You avoid a boss but answer to an algorithm. You keep 100% of your earnings—but also owe 100% of your taxes, gas, car repairs, and insurance.
 
-For Sam at 20 with limited funds, gig work can be a useful tool. It works best as a bridge between opportunities, a way to stack income while building something else, or a fallback when other options dry up. It does not work well as a long-term career for most people.
+For young adults at 20 with limited funds, gig work can be a useful tool. It works best as a bridge between opportunities, a way to stack income while building something else, or a fallback when other options dry up. It does not work well as a long-term career for most people.
 
 ## What You'll Do
 
@@ -268,7 +268,7 @@ Gig work fits certain situations better than others.
 **Scam check notes:**
 - The platforms themselves are legitimate, publicly-traded or major VC-backed companies.
 - The real risk is economic: overestimating earnings, underestimating expenses (fuel, maintenance, taxes, insurance), and not tracking mileage from day one.
-- Third-party scams to warn Sam about:
+- Third-party scams to warn readers about:
   1. "Premium job access" schemes charging fees to get better orders
   2. Phishing attempts posing as platform support asking for login credentials
   3. "Fleet programs" or rental schemes that lock workers into exploitative contracts

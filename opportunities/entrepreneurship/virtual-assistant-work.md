@@ -10,7 +10,7 @@ Virtual assistants handle administrative and operational tasks for businesses an
 
 This path works best if you already have office or administrative experience. If you don't, expect to start at the bottom of the pay scale and work your way up. The good news is that it's a real skill that improves with practice, and experienced VAs can eventually command solid rates.
 
-For Sam's situation, VA work offers a realistic path to remote income—but not a fast one. The first few months will likely be underpaid grunt work while you build your reputation.
+For young adults's situation, VA work offers a realistic path to remote income—but not a fast one. The first few months will likely be underpaid grunt work while you build your reputation.
 
 **Scam Warning:** VA work is heavily targeted by scammers. Before applying to any VA position, read the Scam Detection section below. Never pay upfront fees. Never accept checks to "buy equipment." Legitimate employers do not charge you to work for them.
 
@@ -307,7 +307,7 @@ These are achievable numbers—not guarantees. Most people who start VA work qui
 
 ### Scam Check
 - [x] No red flags present
-- [x] Yellow flags investigated: VA work heavily targeted by scams; comprehensive scam detection section added to warn Sam
+- [x] Yellow flags investigated: VA work heavily targeted by scams; comprehensive scam detection section added to warn readers
 - [x] Organization exists and is verifiable
 - [x] Searched "virtual assistant jobs + scam" — findings: Common scam types documented (check scams, equipment advance fraud, reshipping); document addresses all major patterns
 - [x] Searched "virtual assistant + reddit" — findings: r/VirtualAssistant and r/WorkOnline confirm pay ranges and difficulty of client acquisition; Belay/Boldly experience requirements confirmed

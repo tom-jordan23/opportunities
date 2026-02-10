@@ -10,7 +10,7 @@ AmeriCorps VISTA places individuals with nonprofit organizations, public agencie
 
 This program differs fundamentally from NCCC. Where NCCC members build trails and gut flooded houses, VISTA members write grants and recruit volunteers. Where NCCC provides team-based housing and constant supervision, VISTA expects you to find your own apartment and manage your own schedule. VISTA trades structure for independence.
 
-This program works for Sam because it provides a living allowance, health coverage, and the education award upon completion. It offers professional experience in nonprofit settings. It opens doors to federal employment through non-competitive eligibility. No college degree required.
+This program works for young adults because it provides a living allowance, health coverage, and the education award upon completion. It offers professional experience in nonprofit settings. It opens doors to federal employment through non-competitive eligibility. No college degree required.
 
 The catch: the living allowance keeps you at poverty level. You find your own housing. You work alone at your site without teammates. If your placement is poorly managed, you may feel exploited or underutilized. This is harder than NCCC in some ways because there is no built-in support structure or shared living community.
 

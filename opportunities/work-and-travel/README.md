@@ -12,6 +12,6 @@ Opportunities that combine earning money with experiencing new places.
 - Au pair and childcare work
 - Resort and tourism jobs
 
-## Priority for Sam
+## Priority for young adults
 
 High. These opportunities typically provide housing and income—solving the limited funds constraint while enabling travel.

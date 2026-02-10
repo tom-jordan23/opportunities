@@ -8,7 +8,7 @@
 
 AmeriCorps NCCC is a full-time, team-based national service program for young adults ages 18-26. You live with a team of 8-10 people. You travel to multiple states. You work on community projects for 10-11 months.
 
-This program works for Sam because it solves three problems at once. It provides housing. It covers food and travel. It pays a small stipend while you serve. You finish with over $7,000 toward education or student loans.
+This program works for young adults because it solves three problems at once. It provides housing. It covers food and travel. It pays a small stipend while you serve. You finish with over $7,000 toward education or student loans.
 
 The catch: the stipend is barely above poverty level. You give up significant personal freedom. You share living space with strangers. The work is often physically demanding. This is not a job. It is a service commitment that happens to include room and board.
 

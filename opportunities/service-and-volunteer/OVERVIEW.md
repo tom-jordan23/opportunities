@@ -157,7 +157,7 @@ Age limits vary by program:
 
 The NCCC age limit of 26 was raised from 24 under the CARES Act. The upper limit applies at the time you arrive on campus and are activated as a member. You must be on campus for at least one day before turning 27.
 
-For someone who is 20 like Sam, all programs are accessible. NCCC has a window of six years before the upper limit becomes a concern.
+For someone in their early 20s, all programs are accessible. NCCC has a window of six years before the upper limit becomes a concern.
 
 ### Citizenship Requirements
 
@@ -516,7 +516,7 @@ The ServiceYear.org platform helps match people with service opportunities acros
 
 ---
 
-## Summary for Sam
+## Summary for young adults
 
 Service and volunteer programs offer a real pathway for someone with limited funds. You get housing, food, and health coverage. You earn an education award. You build skills and networks.
 

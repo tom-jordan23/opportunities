@@ -1,22 +1,23 @@
-# Sam's Opportunity Guide
+# Alternative Paths Guide
 
-A curated collection of paths and opportunities for Sam (20) who has chosen to travel the world and forge his own way rather than pursue traditional college.
+A curated collection of paths and opportunities for young people who want to build a life without traditional college—through work, travel, trades, and service.
 
-## About Sam
+## Target Audience
 
-- **Age:** 20 years old
-- **Timeline:** Ready to start now
-- **Budget:** Limited funds - prioritize opportunities that pay, provide housing, or have low startup costs
-- **Interests:** Broad and exploratory - open to physical/outdoor work, tech/creative pursuits, working with people, and service-oriented roles
+This guide is for young adults (18-30) who are:
+- Ready to start now
+- Working with limited funds—prioritizing opportunities that pay, provide housing, or have low startup costs
+- Open to physical/outdoor work, tech/creative pursuits, working with people, and service-oriented roles
+- Looking for real information, not marketing promises
 
 ## Writing Style
 
-This guide uses a mentoring voice—growth-oriented and human-centered. The goal is to help Sam see challenges as learning opportunities rather than obstacles.
+This guide uses a mentoring voice—growth-oriented and human-centered. The goal is to help readers see challenges as learning opportunities rather than obstacles.
 
 ### Core Principles
 
 - **Acknowledge complexity:** This work is hard. Some paths won't work out. That's how learning happens.
-- **Be transparent about uncertainty:** Share what works in specific contexts while acknowledging that Sam's situation is his own.
+- **Be transparent about uncertainty:** Share what works in specific contexts while acknowledging that every person's situation is unique.
 - **Ground claims in evidence:** Include concrete details—actual costs, real timelines, specific requirements. Avoid vague promises.
 - **Use accessible language:** No corporate jargon. Write like you're talking to a capable adult who deserves straight answers.
 
@@ -43,7 +44,7 @@ This project uses specialized agents to ensure quality and accuracy.
 **Purpose:** Comprehensive discovery and documentation of opportunities.
 
 **Responsibilities:**
-- Identify opportunities that match Sam's profile and constraints
+- Identify opportunities suitable for young adults with limited funds and no degree requirement
 - Gather detailed information from official sources
 - Document costs, requirements, timelines, and application processes
 - Find communities, forums, and real-world accounts of each path
@@ -132,7 +133,7 @@ This project uses specialized agents to ensure quality and accuracy.
 
 ## Scam Detection
 
-Young people exploring non-traditional paths are prime targets for scams. This section helps identify fraudulent opportunities before Sam wastes money or time—or worse.
+Young people exploring non-traditional paths are prime targets for scams. This section helps identify fraudulent opportunities before readers waste money or time—or worse.
 
 ### Red Flags — Immediate Disqualifiers
 
@@ -253,7 +254,7 @@ Each opportunity file should follow this structure:
 
 ## Overview
 
-What this opportunity is. Why it might work for someone in Sam's situation. Be direct about what makes this worth considering—and what might make it wrong for him.
+What this opportunity is. Why it might work for a young person with limited funds. Be direct about what makes this worth considering—and what might make it wrong for some readers.
 
 ## What You'll Do
 
@@ -280,7 +281,7 @@ What you'll learn. Whether it leads to recognized credentials. How this position
 
 ## How to Get Started
 
-Concrete steps. Each one should be something Sam can actually do this week.
+Concrete steps. Each one should be something the reader can actually do this week.
 
 1. First step with specific action
 2. Second step
@@ -340,12 +341,12 @@ Links to similar paths in this guide.
 
 ## Conventions
 
-- **Money comes first.** Sam has limited funds. Every opportunity must clearly state upfront costs before he can earn anything. If housing isn't provided, say so.
+- **Money comes first.** Readers have limited funds. Every opportunity must clearly state upfront costs before earning anything. If housing isn't provided, say so.
 - **Downsides are mandatory.** Every opportunity has hard parts. Name them. People quit for reasons—those reasons belong in the document.
 - **Show the path forward.** Where does this lead? What skills transfer? What doors open? An opportunity that dead-ends is still valuable if we're honest about it.
 - **Actionable steps only.** "Research programs in your area" is not a step. "Go to coolworks.com and filter by 'housing provided'" is a step.
 - **Date everything.** Costs change. Programs close. Visa rules shift. Every fact needs a verification date. Assume anything over 12 months old needs rechecking.
-- **No false promises.** We don't know if this will work for Sam. We're giving him information to make his own choices.
+- **No false promises.** We don't know if this will work for any specific reader. We're providing information so people can make their own choices.
 
 ## Categories Explained
 
@@ -382,7 +383,7 @@ See `IDEAS.md` for the running list of opportunities to research and document.
 
 ### Quality Gates
 
-An opportunity document is not ready for Sam until:
+An opportunity document is not ready for publication until:
 - [ ] All template sections are complete
 - [ ] Verification checklist is complete
 - [ ] Confidence level is Medium or High

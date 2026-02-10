@@ -10,7 +10,7 @@ Hostel work exchange programs let you trade a few hours of work each day for fre
 
 Several platforms connect travelers with hostels seeking volunteers. The main ones are Worldpackers, Workaway, HelpX, and Hostelworld. Each charges a membership fee to contact hosts. Once you pay, you can apply to as many positions as you want for the membership period.
 
-This matters for Sam because hostel work solves the biggest travel expense—accommodation—without requiring savings or work authorization in many cases. For $20-70 per year in membership fees, you can stretch limited funds dramatically. You meet other travelers constantly. You learn hospitality skills. The trade-off is clear. You work without pay, have limited income for other expenses, and operate in a legal gray area depending on the country.
+This matters for young adults because hostel work solves the biggest travel expense—accommodation—without requiring savings or work authorization in many cases. For $20-70 per year in membership fees, you can stretch limited funds dramatically. You meet other travelers constantly. You learn hospitality skills. The trade-off is clear. You work without pay, have limited income for other expenses, and operate in a legal gray area depending on the country.
 
 ## What You'll Do
 

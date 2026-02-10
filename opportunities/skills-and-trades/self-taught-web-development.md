@@ -8,7 +8,7 @@
 
 Self-taught web development is a real path to employment. Thousands of people have done it. But the marketing around coding bootcamps and "learn to code" culture often obscures what this actually requires: 6-18 months of consistent daily work, with no external structure keeping you accountable.
 
-For Sam, this path has appeal. Startup costs are near zero. You can learn from anywhere with internet access. The work is location-independent once you land it. But the path is harder than the Instagram developers make it look. You are competing against bootcamp graduates, computer science degree holders, and self-taught developers who have been at it for years. Entry-level web development is saturated. Standing out requires real skill and a portfolio that proves it.
+For young adults, this path has appeal. Startup costs are near zero. You can learn from anywhere with internet access. The work is location-independent once you land it. But the path is harder than the Instagram developers make it look. You are competing against bootcamp graduates, computer science degree holders, and self-taught developers who have been at it for years. Entry-level web development is saturated. Standing out requires real skill and a portfolio that proves it.
 
 This document covers the self-taught route—not bootcamps. The tradeoffs are different. Self-taught costs almost nothing but demands more discipline. Bootcamps cost $10,000-$20,000 but provide structure, deadlines, and sometimes job placement support. Neither guarantees employment.
 

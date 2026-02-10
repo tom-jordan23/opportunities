@@ -8,7 +8,7 @@
 
 Team Rubicon is a veteran-led disaster response organization that deploys volunteers ("Greyshirts") to help communities recover from disasters. Despite its military roots, **30-40% of volunteers are civilians** with no military or first responder background.
 
-For Sam, this offers hands-on disaster response experience, practical skills training (including chainsaw certification), and a strong network—all at no cost. The catch: it's unpaid volunteer work, so he'd need another income source.
+For young adults, this offers hands-on disaster response experience, practical skills training (including chainsaw certification), and a strong network—all at no cost. The catch: it's unpaid volunteer work, so he'd need another income source.
 
 ## What You'll Do
 
@@ -218,5 +218,5 @@ Team Rubicon is unpaid volunteer work. You need another income source. However, 
 - Organization has responded to 1,000+ disasters over past decade
 - Glassdoor concerns relate to internal employment issues, not volunteer experience or organizational fraud
 
-**Key note for Sam:**
+**Key note for young adults:**
 Team Rubicon offers valuable training and experience at minimal cost (only the temporarily-fronted background check fee), but it's unpaid volunteer work. Best combined with part-time or flexible employment. The chainsaw certification and ICS credentials have real career value for emergency management careers.

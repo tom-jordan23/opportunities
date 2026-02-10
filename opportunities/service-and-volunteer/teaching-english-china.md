@@ -8,9 +8,9 @@
 
 China has the world's largest ESL teaching market with approximately 400 million English learners. The country offers competitive salaries, free housing, and flight reimbursements for qualified teachers. Major cities like Beijing, Shanghai, and Shenzhen offer $2,000-$3,500/month. Smaller cities pay less but have lower living costs.
 
-**Sam cannot pursue this opportunity without a bachelor's degree.** China strictly requires a bachelor's degree for the Z visa (work visa). This requirement is non-negotiable and enforced at the visa application stage. No workarounds exist. Working on tourist or business visas is illegal and results in deportation, fines, and potential bans from re-entering China.
+**you cannot pursue this opportunity without a bachelor's degree.** China strictly requires a bachelor's degree for the Z visa (work visa). This requirement is non-negotiable and enforced at the visa application stage. No workarounds exist. Working on tourist or business visas is illegal and results in deportation, fines, and potential bans from re-entering China.
 
-If Sam wants to teach in China eventually, he should first pursue a bachelor's degree or consider countries that do not require one, such as Cambodia, Mexico, Colombia, or Costa Rica.
+If you wants to teach in China eventually, he should first pursue a bachelor's degree or consider countries that do not require one, such as Cambodia, Mexico, Colombia, or Costa Rica.
 
 ## What You'll Do
 
@@ -50,7 +50,7 @@ The work itself is repetitive. You explain grammar concepts daily. You correct p
 
 ## Requirements
 
-- **Bachelor's degree:** Required for Z visa. Any field accepted. Must be authenticated and apostilled. This is the absolute requirement that blocks Sam currently.
+- **Bachelor's degree:** Required for Z visa. Any field accepted. Must be authenticated and apostilled. This is the absolute requirement that blocks many young adults currently.
 - **TEFL certification:** 120+ hours required. Must be from an accredited provider. Some employers accept 2 years of teaching experience as an alternative.
 - **Age:** 18-60 for men, 18-55 for women.
 - **Nationality:** Native English speakers from UK, USA, Canada, Australia, New Zealand, Ireland, and South Africa are strongly preferred. Non-native speakers face additional requirements.
@@ -182,7 +182,7 @@ In Tier 1 cities, expect to spend $1,200-$1,800/month on living expenses if hous
 
 ### The Bachelor's Degree Wall
 
-This is the fundamental blocker for Sam. China enforces the bachelor's degree requirement at the visa stage. There is no legitimate workaround. Some recruiters may suggest working on tourist or business visas. This is illegal. Teachers caught working without proper authorization face deportation, fines, and bans from re-entry. It also means zero labor law protection if your employer mistreats you.
+This is the fundamental blocker for young adults. China enforces the bachelor's degree requirement at the visa stage. There is no legitimate workaround. Some recruiters may suggest working on tourist or business visas. This is illegal. Teachers caught working without proper authorization face deportation, fines, and bans from re-entry. It also means zero labor law protection if your employer mistreats you.
 
 ### Internet Restrictions
 

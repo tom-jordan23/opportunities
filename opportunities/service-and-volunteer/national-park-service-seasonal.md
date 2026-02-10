@@ -8,7 +8,7 @@
 
 The National Park Service hires thousands of seasonal employees each year to staff America's 400+ national parks. These temporary positions last up to six months and cover everything from leading tours to maintaining trails to staffing entrance stations.
 
-This opportunity works for Sam because many positions require no prior experience. Some parks provide housing. You work in spectacular natural settings. The pay is modest but reliable. And if you want to build a career in land management, seasonal work is how almost everyone starts.
+This opportunity works for young adults because many positions require no prior experience. Some parks provide housing. You work in spectacular natural settings. The pay is modest but reliable. And if you want to build a career in land management, seasonal work is how almost everyone starts.
 
 The catch: these jobs are extremely competitive. Iconic parks like Yellowstone and Yosemite receive hundreds of applications for a handful of openings. Housing shortages force many parks to limit hiring. The work is temporary by definition. And the federal application process is notoriously slow and confusing.
 
@@ -271,7 +271,7 @@ Some people convert faster. Many take longer. Some never convert and either make
 - [x] Contract/fee structure is transparent
 - [x] Scam risk level: Low
 
-**Warning for Sam:** Only apply through USAJobs.gov. Never pay a fee to apply for federal jobs. USAJobs will never ask for your SSN or financial information via email. Fake USAJobs apps have appeared in app stores. Delete any email asking you to "revalidate" your account.
+**Warning for young adults:** Only apply through USAJobs.gov. Never pay a fee to apply for federal jobs. USAJobs will never ask for your SSN or financial information via email. Fake USAJobs apps have appeared in app stores. Delete any email asking you to "revalidate" your account.
 
 **Sources used:**
 1. OPM 2026 GS Pay Tables - https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2026/general-schedule/ (verified 2026-02-09)

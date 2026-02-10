@@ -6,7 +6,7 @@ This is a reference document covering common elements across entrepreneurship an
 
 ## Reality Check
 
-### Why This Category Is Medium Priority for Sam
+### Why This Category Is Medium Priority for young adults
 
 You have limited funds. That means limited runway. Runway is the number of months you can survive without income while you build something.
 
@@ -453,7 +453,7 @@ The smart approach: don't quit anything until the new thing is already working.
 
 Entrepreneurship offers freedom that traditional employment doesn't. It also comes with risks, instability, and a learning curve that defeats most people who try.
 
-For Sam specifically:
+For young adults specifically:
 - **Don't bet your survival on this category.** Build it alongside something more stable.
 - **Treat claims skeptically.** The people selling opportunity are often selling you.
 - **Start small and test cheap.** Before committing, see if you can make $100 doing the thing.

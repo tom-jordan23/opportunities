@@ -8,7 +8,7 @@
 
 HVAC stands for heating, ventilation, and air conditioning. Technicians install, maintain, and repair the systems that keep buildings comfortable. Every home, office, hospital, and factory needs climate control. The equipment breaks down, wears out, and eventually gets replaced. This creates constant demand for people who understand these systems.
 
-The industry is facing a workforce crisis that works in Sam's favor. Over 50% of current HVAC technicians are 45 or older. The average tech is over 55. For every five who retire, only two new people enter the trade. This imbalance has created roughly 110,000 unfilled positions nationwide. The Bureau of Labor Statistics projects 42,500 job openings annually through 2032. Companies are raising wages and offering better training to attract workers.
+The industry is facing a workforce crisis that works in the reader's favor. Over 50% of current HVAC technicians are 45 or older. The average tech is over 55. For every five who retire, only two new people enter the trade. This imbalance has created roughly 110,000 unfilled positions nationwide. The Bureau of Labor Statistics projects 42,500 job openings annually through 2032. Companies are raising wages and offering better training to attract workers.
 
 For someone with limited funds, HVAC offers multiple entry points. Union apprenticeships pay you while you learn. Community college programs qualify for Pell Grants and often cost under $5,000 after aid. Some employers hire helpers with no experience and train them on the job. The EPA certification required to handle refrigerants costs under $150 and does not expire.
 

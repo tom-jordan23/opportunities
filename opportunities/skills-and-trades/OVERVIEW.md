@@ -12,7 +12,7 @@ The average four-year degree costs $100,000+ and takes four years of not earning
 
 By age 24, a union electrician apprentice who started at 20 has four years of paid experience and a journeyman license. A college graduate has four years of debt payments ahead and is just starting their first job.
 
-This math works especially well for Sam. He has limited funds and wants to start now. Trades let him do both.
+This math works especially well for young adults. He has limited funds and wants to start now. Trades let him do both.
 
 ### Earning While Learning Model
 
@@ -580,7 +580,7 @@ If business ownership interests you, start learning about it during your apprent
 
 ---
 
-## Summary for Sam
+## Summary for young adults
 
 Trades training offers a path to stable, well-paying work without college debt. You earn from day one with most apprenticeship programs. The ceiling is high if you develop both technical skills and business sense.
 

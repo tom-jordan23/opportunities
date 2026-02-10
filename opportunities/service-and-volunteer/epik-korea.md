@@ -6,7 +6,7 @@
 
 ## Critical Requirement: Bachelor's Degree
 
-**Sam, this program requires a bachelor's degree from an accredited university.** At 20, you likely do not have this yet. EPIK is not an option until you complete a four-year degree.
+**Note: This program requires a bachelor's degree from an accredited university.** At 20, you likely do not have this yet. EPIK is not an option until you complete a four-year degree.
 
 If you are determined to teach English abroad without a degree, some private academies in other countries may hire you, but South Korea's E-2 visa regulations legally require a bachelor's degree. There are no workarounds.
 
@@ -57,7 +57,7 @@ Rural placements often come with isolation but also closer community bonds, lowe
 
 - **Citizenship:** You must be a citizen of one of seven countries: USA, UK, Ireland, Canada, Australia, New Zealand, or South Africa. Indian citizens are also eligible under the CEPA agreement if they hold a valid teaching certificate in English education—a TEFL/TESOL/CELTA does not satisfy this requirement.
 
-- **Age:** Minimum 20 years old (which Sam meets)
+- **Age:** Minimum 20 years old (age 18+)
 
 - **Clean criminal record:** FBI background check (for Americans) or equivalent national-level check, apostilled
 

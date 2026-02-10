@@ -8,7 +8,7 @@
 
 City Year is an education-focused AmeriCorps program where you serve as a tutor, mentor, and role model in high-need urban public schools. You work full-time for 11 months alongside teachers. You help students develop academic skills and confidence. You run after-school programs. You earn a modest stipend and an education award upon completion.
 
-This program works for Sam because it provides a structured entry into education and youth development work. You do not need a college degree. You do not need teaching experience. You get health insurance. You earn an education award worth $7,395 that can pay for future training or reduce student loans.
+This program works for young adults because it provides a structured entry into education and youth development work. You do not need a college degree. You do not need teaching experience. You get health insurance. You earn an education award worth $7,395 that can pay for future training or reduce student loans.
 
 The catch: the stipend is poverty-level wages. You work 10-hour days in under-resourced schools. The emotional weight of working with struggling students is real. You serve in urban areas where the cost of living exceeds your pay. Many corps members need second jobs or family support to get through the year.
 

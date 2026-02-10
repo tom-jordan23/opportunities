@@ -1,6 +1,6 @@
 # Opportunity Ideas
 
-Backlog of opportunities to research and document. Prioritized by fit for Sam's situation (ready now, limited funds, broad interests).
+Backlog of opportunities to research and document. Prioritized by fit for young adults (ready now, limited funds, broad interests).
 
 ## Priority Key
 - **[HIGH]** — Low/no upfront cost, provides income or housing, accessible now
@@ -45,43 +45,43 @@ Backlog of opportunities to research and document. Prioritized by fit for Sam's 
 ## Skills & Trades
 
 ### Maritime & Offshore
-- [ ] [MED] Merchant Marine — entry-level (requires TWIC card, MMC)
+- [x] [MED] Merchant Marine — entry-level (requires TWIC card, MMC) ✓ VERIFIED
 - [ ] [LOW] Commercial diving
 - [ ] [MED] Offshore oil & gas — entry positions (roustabout)
 - [ ] [MED] Tugboat deckhand
 - [ ] [LOW] Yacht captain certification path
 
 ### Construction & Trades
-- [ ] [HIGH] Construction laborer (union apprenticeship path)
-- [ ] [MED] Electrician apprenticeship (IBEW)
-- [ ] [MED] Plumbing apprenticeship
-- [ ] [MED] HVAC technician training
-- [ ] [MED] Welding certification
-- [ ] [HIGH] Solar panel installation
-- [ ] [MED] Wind turbine technician
+- [x] [HIGH] Construction laborer (union apprenticeship path) ✓ VERIFIED
+- [x] [MED] Electrician apprenticeship (IBEW) ✓ VERIFIED
+- [x] [MED] Plumbing apprenticeship ✓ VERIFIED
+- [x] [MED] HVAC technician training ✓ VERIFIED
+- [x] [MED] Welding certification ✓ VERIFIED
+- [x] [HIGH] Solar panel installation ✓ VERIFIED
+- [x] [MED] Wind turbine technician ✓ VERIFIED
 
 ### Emergency Services
-- [ ] [MED] EMT certification
-- [ ] [MED] Wildland firefighting (seasonal)
+- [x] [MED] EMT certification ✓ VERIFIED
+- [x] [MED] Wildland firefighting (seasonal) ✓ VERIFIED
 - [ ] [LOW] Paramedic training
 - [ ] [MED] Search and rescue volunteer → paid positions
 
 ### Aviation
 - [ ] [LOW] Private pilot license (expensive but opens doors)
 - [ ] [MED] Aircraft mechanic (A&P certification)
-- [ ] [MED] Drone pilot certification (Part 107)
-- [ ] [HIGH] Airport ground crew / ramp agent
+- [x] [MED] Drone pilot certification (Part 107) ✓ VERIFIED
+- [x] [HIGH] Airport ground crew / ramp agent ✓ VERIFIED
 
 ### Tech & Digital
 - [ ] [MED] Coding bootcamp (research which have income share agreements)
 - [ ] [MED] IT certifications (CompTIA A+, Network+)
 - [ ] [LOW] Cybersecurity training paths
-- [ ] [HIGH] Self-taught web development path
+- [x] [HIGH] Self-taught web development path ✓ VERIFIED
 
 ### Other Skilled Work
-- [ ] [MED] CDL / trucking (some companies pay for training)
-- [ ] [MED] Heavy equipment operator
-- [ ] [HIGH] Warehouse / forklift certification
+- [x] [MED] CDL / trucking (some companies pay for training) ✓ VERIFIED
+- [x] [MED] Heavy equipment operator ✓ VERIFIED
+- [x] [HIGH] Warehouse / forklift certification ✓ VERIFIED
 - [ ] [MED] Automotive technician apprenticeship
 
 ---

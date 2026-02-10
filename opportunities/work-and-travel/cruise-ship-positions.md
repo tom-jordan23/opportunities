@@ -8,7 +8,7 @@
 
 Cruise ships hire thousands of entry-level workers to serve passengers on vessels that operate year-round worldwide. No college degree is required. These are jobs where you can earn money while traveling to ports across the Caribbean, Alaska, Mediterranean, and beyond.
 
-This matters for Sam because cruise lines provide free room and board. You work on the ship, sleep on the ship, and eat on the ship. Your paycheck is almost entirely savings since your major expenses are covered. A 6-month contract can build a meaningful cash reserve if you commit to the grind.
+This matters for young adults because cruise lines provide free room and board. You work on the ship, sleep on the ship, and eat on the ship. Your paycheck is almost entirely savings since your major expenses are covered. A 6-month contract can build a meaningful cash reserve if you commit to the grind.
 
 The trade-off is significant. You will work 10-13 hours per day, seven days a week, for months without a day off. You will share a small cabin with one to three other people. Your privacy will be minimal. Your connection to family and friends will be limited by expensive internet. And the work itself is demanding service industry labor in a hierarchical environment.
 

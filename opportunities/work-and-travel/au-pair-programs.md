@@ -6,7 +6,7 @@
 
 ## Overview
 
-Au pairing is a cultural exchange program where you live with a host family abroad, provide childcare in exchange for room, board, and a small stipend, and immerse yourself in a new language and culture. For Sam, this offers a low-cost way to live abroad for 6-12 months while gaining practical skills and language fluency.
+Au pairing is a cultural exchange program where you live with a host family abroad, provide childcare in exchange for room, board, and a small stipend, and immerse yourself in a new language and culture. For young adults, this offers a low-cost way to live abroad for 6-12 months while gaining practical skills and language fluency.
 
 The trade-off is real: you are living in someone else's home, caring for their children, with limited privacy and modest pay. This is not a vacation or a job in the traditional sense. It is a structured cultural exchange with legal protections in most countries but also clear power imbalances you need to navigate.
 
@@ -49,7 +49,7 @@ The reality: some families blur these boundaries. Your contract and the host cou
 | Switzerland | 18-29 | Varies by canton |
 | Australia | 18-30 | Via Working Holiday Visa (subclass 462) |
 
-At 20, Sam qualifies for all major destinations.
+At 20you qualifies for all major destinations.
 
 ### Childcare Experience
 

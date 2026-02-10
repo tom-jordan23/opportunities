@@ -8,7 +8,7 @@
 
 Habitat for Humanity partners with AmeriCorps to place service members at local Habitat affiliates across the United States. You'll help build affordable homes while earning a living allowance and education award.
 
-For Sam, this combines construction skill-building with structured service and actual compensation—unlike pure volunteer programs. The pay is modest (below minimum wage when calculated hourly), but housing assistance is sometimes available, and the education award can fund trade school or pay off student loans.
+For young adults, this combines construction skill-building with structured service and actual compensation—unlike pure volunteer programs. The pay is modest (below minimum wage when calculated hourly), but housing assistance is sometimes available, and the education award can fund trade school or pay off student loans.
 
 ## What You'll Do
 
@@ -216,5 +216,5 @@ At 1,700 hours and $24,000 total allowance: ~$14.12/hour equivalent. With $7,395
 - Original document stated ~$1,800 cash stipend alternative for education award. This is incorrect—cash stipend option is only available to AmeriCorps VISTA members, not AmeriCorps State/National programs like Habitat. Corrected.
 - NCCC living allowance was slightly understated ($350 vs $360-380). Corrected.
 
-**Key note for Sam:**
-Legitimate program with real benefits, but the pay is very low. Best if Sam can secure housing assistance or has very low expenses. The education award has real value for future trade school.
+**Key note for young adults:**
+Legitimate program with real benefits, but the pay is very low. Best if you can secure housing assistance or has very low expenses. The education award has real value for future trade school.

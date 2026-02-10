@@ -6,9 +6,9 @@
 
 ## Overview
 
-Theme parks hire thousands of seasonal and year-round employees for entry-level positions. For Sam at 20 without a college degree, this is a viable option—but the economics require careful consideration.
+Theme parks hire thousands of seasonal and year-round employees for entry-level positions. For young adults at 20 without a college degree, this is a viable option—but the economics require careful consideration.
 
-**The key distinction:** Disney's famous College Program requires current college enrollment or recent graduation. However, Disney and all other major parks also hire regular hourly employees with no education requirements. Cedar Point stands out as the best option for Sam because it offers affordable on-site housing to all seasonal employees, not just students.
+**The key distinction:** Disney's famous College Program requires current college enrollment or recent graduation. However, Disney and all other major parks also hire regular hourly employees with no education requirements. Cedar Point stands out as the best option for young adults because it offers affordable on-site housing to all seasonal employees, not just students.
 
 ## What You'll Do
 
@@ -77,12 +77,12 @@ No certifications result from training—skills are park-specific.
 
 ### Housing Reality
 
-**This is the critical factor for Sam.**
+**This is the critical factor for young adults.**
 
 - **Disney College Program:** $227-275/week for shared housing—but requires college enrollment
 - **Regular Disney employees:** No housing provided. Orlando one-bedroom apartments average $1,400-1,600/month (2026 data). At $18/hour, the math doesn't work without roommates.
 - **Universal Orlando:** Housing available primarily for international workers (J-1/H-2B visas), not domestic employees
-- **Cedar Point:** $6-16/day for dorm-style housing depending on facility type ($180-480/month). Off-season rate is $10/day. Open to ALL seasonal employees 18+ who live 30+ miles from the park. Free housing during HalloWeekends. This is the clear winner for Sam.
+- **Cedar Point:** $6-16/day for dorm-style housing depending on facility type ($180-480/month). Off-season rate is $10/day. Open to ALL seasonal employees 18+ who live 30+ miles from the park. Free housing during HalloWeekends. This is the clear winner for young adults.
 
 ### Startup Costs
 
@@ -100,7 +100,7 @@ No certifications result from training—skills are park-specific.
 
 ## How to Get Started
 
-1. **Decide on a park.** For Sam without housing in Orlando, Cedar Point is the strongest option due to affordable on-site housing.
+1. **Decide on a park.** For young adults without housing in Orlando, Cedar Point is the strongest option due to affordable on-site housing.
 
 2. **Apply online:**
    - Disney: jobs.disneycareers.com (look for "Hourly" not "College Program")
@@ -213,5 +213,5 @@ No certifications result from training—skills are park-specific.
 - Orlando rent varies significantly by source ($1,400-1,850); used mid-range estimate
 - Disney WDW pay structure is complex: $18/hour minimum, but $20/hour for those hired after Dec 2023, rising to $20.50 by Oct 2026
 
-**Key note for Sam:**
+**Key note for young adults:**
 Cedar Point (or other Cedar Fair parks with housing) remains the most practical option. Disney/Universal in Orlando requires solving the housing problem independently, which is difficult at entry-level wages. Disney Aspire is now less generous than before but still valuable for undergraduate education.

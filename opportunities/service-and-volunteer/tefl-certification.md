@@ -8,7 +8,7 @@
 
 TEFL stands for Teaching English as a Foreign Language. TESOL means Teaching English to Speakers of Other Languages. The terms are used interchangeably by most employers. Getting certified is the gateway to teaching English in countries around the world.
 
-This path works for Sam because it requires no prior teaching experience and can open doors to paid work abroad. Many countries provide work visas, housing, and flights for English teachers. The startup cost ranges from free to a few thousand dollars depending on which certification you choose.
+This path works for young adults because it requires no prior teaching experience and can open doors to paid work abroad. Many countries provide work visas, housing, and flights for English teachers. The startup cost ranges from free to a few thousand dollars depending on which certification you choose.
 
 But be realistic. The market is more competitive than it was ten years ago. Budget destinations pay little. Prestigious positions now expect degrees and quality certifications. And the industry has scam providers who will take your money for worthless certificates.
 

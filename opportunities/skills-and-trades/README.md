@@ -13,6 +13,6 @@ Paths to learn marketable skills without traditional college.
 - Heavy equipment operation
 - CDL and trucking
 
-## Priority for Sam
+## Priority for young adults
 
 Medium-high. Many of these require upfront investment or location commitment, but they build durable skills that enable future freedom.

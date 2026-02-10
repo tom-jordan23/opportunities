@@ -8,7 +8,7 @@
 
 The U.S. Forest Service manages 193 million acres of national forests and grasslands. Each year, the agency hires thousands of seasonal employees to maintain trails, staff campgrounds, fight wildfires, conduct timber surveys, and more. These positions last 3-6 months and provide a direct pathway into federal land management careers.
 
-This opportunity works for Sam because many positions require no prior experience. Some locations provide housing. The work is physical and outdoors. Wildland firefighting positions offer significant overtime pay. And completing seasonal work makes you eligible for federal hiring preferences that accelerate the path to permanent employment.
+This opportunity works for young adults because many positions require no prior experience. Some locations provide housing. The work is physical and outdoors. Wildland firefighting positions offer significant overtime pay. And completing seasonal work makes you eligible for federal hiring preferences that accelerate the path to permanent employment.
 
 The catch: competition is intense. The federal application process through USAJOBS is confusing and unforgiving. Many positions are in remote locations hours from any town. The work is temporary by design. And recent budget cuts have reduced non-fire seasonal hiring dramatically.
 
@@ -290,7 +290,7 @@ The distinction between temporary seasonal and permanent seasonal matters enormo
 | **Visitor focus** | Less emphasis | Central to mission |
 | **Career conversion** | LMWFA after 24 months | Same pathway |
 
-**Which is right for Sam?**
+**Which is right for young adults?**
 
 Choose USFS if: You want fire experience and overtime income. You prefer physical outdoor work over visitor interaction. You are comfortable with remote locations. You want variety in work types.
 

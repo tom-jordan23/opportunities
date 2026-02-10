@@ -10,7 +10,7 @@ Union construction apprenticeships offer a debt-free path to skilled, well-payin
 
 This document covers three major construction trades: Laborers (LIUNA), Carpenters (UBC), and Operating Engineers (IUOE). These trades share similar apprenticeship structures but differ in daily work. Laborers do the widest variety of construction tasks. Carpenters build and install wooden structures and frameworks. Operating Engineers run heavy equipment like excavators, cranes, and bulldozers.
 
-For Sam, union apprenticeships solve the money problem. You do not pay tuition. You earn wages and receive benefits including health insurance and pension contributions from day one. The catch: programs are competitive, waiting lists exist, and the work is physically demanding.
+For young adults, union apprenticeships solve the money problem. You do not pay tuition. You earn wages and receive benefits including health insurance and pension contributions from day one. The catch: programs are competitive, waiting lists exist, and the work is physically demanding.
 
 ## What You'll Do
 

@@ -8,7 +8,7 @@
 
 NOLS (National Outdoor Leadership School) teaches wilderness skills and leadership through backcountry expeditions. Students spend weeks in remote locations learning technical skills, risk management, and leadership. Some graduates pursue careers as NOLS instructors.
 
-For Sam, this path has a major obstacle: cost. NOLS courses range from $5,000 to $20,000. You pay first. You might become an instructor later—if you are selected for the competitive instructor training program. This is not a traditional job with guaranteed employment.
+For young adults, this path has a major obstacle: cost. NOLS courses range from $5,000 to $20,000. You pay first. You might become an instructor later—if you are selected for the competitive instructor training program. This is not a traditional job with guaranteed employment.
 
 The opportunity exists for those willing to pursue scholarships aggressively or use the Instructor-in-Training (IIT) Program, which covers tuition for qualified candidates. But this path requires either significant savings or creative funding strategies.
 
@@ -120,7 +120,7 @@ The **Instructor-in-Training (IIT) Program** is the most accessible path for som
 - Open to all applicants (actively recruits underrepresented groups)
 - Competitive admission
 
-This is Sam's best option if accepted.
+This is the reader's best option if accepted.
 
 ### Instructor Pay
 

@@ -7,7 +7,7 @@ Last updated: 2026-02-09
 | Category | Overview | Drafted | Verified | Remaining HIGH |
 |----------|----------|---------|----------|----------------|
 | Work & Travel | Done | 0 | 14 | 0 |
-| Skills & Trades | Done | 0 | 5 | 0 |
+| Skills & Trades | Done | 0 | 16 | 0 |
 | Service & Volunteer | Done | 0 | 20 | 0 |
 | Entrepreneurship | Done | 0 | 2 | 0 |
 
@@ -69,6 +69,17 @@ Last updated: 2026-02-09
 | Airport Ground Crew | `airport-ground-crew.md` | 2026-02-09 |
 | Self-Taught Web Development | `self-taught-web-development.md` | 2026-02-09 |
 | Warehouse / Forklift Certification | `warehouse-forklift-certification.md` | 2026-02-09 |
+| CDL / Trucking | `cdl-trucking.md` | 2026-02-09 |
+| EMT Certification | `emt-certification.md` | 2026-02-09 |
+| Wildland Firefighting | `wildland-firefighting.md` | 2026-02-09 |
+| Welding Certification | `welding-certification.md` | 2026-02-09 |
+| Electrician Apprenticeship (IBEW) | `electrician-ibew.md` | 2026-02-09 |
+| HVAC Technician | `hvac-technician.md` | 2026-02-09 |
+| Heavy Equipment Operator | `heavy-equipment-operator.md` | 2026-02-09 |
+| Plumbing Apprenticeship | `plumbing-apprenticeship.md` | 2026-02-09 |
+| Merchant Marine | `merchant-marine.md` | 2026-02-09 |
+| Wind Turbine Technician | `wind-turbine-technician.md` | 2026-02-09 |
+| Drone Pilot Certification | `drone-pilot-certification.md` | 2026-02-09 |
 
 ### Draft (Needs Fact Check)
 (none)
@@ -77,18 +88,7 @@ Last updated: 2026-02-09
 (none - all HIGH priority items complete)
 
 ### Not Started (MED Priority)
-- [ ] Merchant Marine - entry-level
-- [ ] Electrician apprenticeship (IBEW)
-- [ ] Plumbing apprenticeship
-- [ ] HVAC technician training
-- [ ] Welding certification
-- [ ] Wind turbine technician
-- [ ] EMT certification
-- [ ] Wildland firefighting
-- [ ] Aircraft mechanic
-- [ ] Drone pilot certification
-- [ ] CDL / trucking
-- [ ] Heavy equipment operator
+- [ ] Aircraft mechanic (A&P certification)
 
 ---
 
@@ -163,26 +163,39 @@ Last updated: 2026-02-09
 
 ## Next Actions
 
-**All HIGH priority items complete.** 41 verified documents across 4 categories.
+**52 verified documents across 4 categories.**
 
-**Key findings from this session:**
-- Teaching abroad programs (JET, EPIK, China, Vietnam) all require bachelor's degrees—not accessible to Sam now
-- Best immediate options for Sam:
-  - **Cruise ships:** $900-1,100 upfront for STCW, but free housing/meals and $2,500-4,000+/month possible
-  - **Theme parks:** Cedar Point offers $6-16/day housing; Disney Aspire has $5,250/year education benefit
-  - **Tour guiding:** Backroads pays $60K-110K/year for trip leaders; entry-level starts ~$12-25/hour + tips
-  - **Disaster relief:** Team Rubicon and All Hands and Hearts offer free training and meaningful work (unpaid but skill-building)
-- Teaching programs documented for future reference if Sam pursues a degree
+**Third pass findings (Skills & Trades focus):**
 
-**MED priority items available for future sessions:**
+Best paths for young adults to build portable, long-term skills:
+
+**Quick entry, earn while learning:**
+- **EMT Certification:** 3-6 months, $500-2,000, leads to paramedic/firefighting
+- **Wildland Firefighting:** Seasonal entry, $40K-80K with overtime, path to permanent federal career
+- **Warehouse/Forklift:** 1-2 weeks, $150-500 certification, immediate employment
+
+**Trade apprenticeships (5-year investment, excellent payoff):**
+- **IBEW Electrician:** Free training, $24-54/hour journeyman, union benefits
+- **Plumbing (UA):** Free training, $63K median, recession-proof
+- **HVAC Technician:** 6-24 months training, $60K median, high demand
+
+**Specialized paths:**
+- **Welding:** 6-12 months, $51K median, specialty work pays $80K-150K+
+- **Heavy Equipment Operator:** Union or employer training, $58K median
+- **Wind Turbine Tech:** Fastest-growing occupation, 50% job growth, $63K median
+- **Merchant Marine:** Free training at Paul Hall Center, $40K-200K depending on rank
+
+**Note on CDL Trucking:** Good money ($55K-90K) but readers under 21 cannot drive interstate. Document this path with age requirement noted.
+
+**Remaining MED priority items:**
+- Skills & Trades: Aircraft mechanic (A&P certification)
 - Working Holiday Visas: Ireland, Japan, South Korea
-- Skills & Trades: IBEW electrical, plumbing, HVAC, welding, EMT, CDL
 - Service: Outward Bound, Red Cross disaster response
 - Entrepreneurship: Freelance writing, video editing, van life logistics
 
 ## Quick Reference Coverage
 
-The README.md now includes quick reference tables for 30+ additional opportunities not yet fully documented. These provide enough info for Sam to start researching while we expand coverage over time.
+The README.md now includes quick reference tables for additional opportunities not yet fully documented. These provide enough info for readers to start researching while we expand coverage over time.
 
 ---
 
@@ -217,6 +230,14 @@ The README.md now includes quick reference tables for 30+ additional opportuniti
 | 2026-02-09 | Researched: All Hands and Hearts, Team Rubicon | 2 drafts |
 | 2026-02-09 | Fact-checked: All 12 new documents (Cruise Ships, Theme Parks, Au Pair, Tour Guide, Peace Corps, JET, EPIK, China, Vietnam, Habitat AmeriCorps, All Hands and Hearts, Team Rubicon) | Verified |
 | 2026-02-09 | **Total verified documents** | **41 documents** |
+| 2026-02-09 | Third pass: Skills & Trades focus | Started |
+| 2026-02-09 | Researched: CDL Trucking, EMT, Wildland Firefighting, Welding | 4 drafts |
+| 2026-02-09 | Fact-checked: CDL, EMT, Wildland Firefighting, Welding | Verified |
+| 2026-02-09 | Researched: Electrician (IBEW), HVAC, Heavy Equipment, Plumbing | 4 drafts |
+| 2026-02-09 | Fact-checked: Electrician, HVAC, Heavy Equipment, Plumbing | Verified |
+| 2026-02-09 | Researched: Merchant Marine, Wind Turbine Tech, Drone Pilot | 3 drafts |
+| 2026-02-09 | Fact-checked: Merchant Marine, Wind Turbine, Drone Pilot | Verified |
+| 2026-02-09 | **Total verified documents** | **52 documents** |
 
 ---
 

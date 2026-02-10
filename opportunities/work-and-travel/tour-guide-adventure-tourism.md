@@ -8,7 +8,7 @@
 
 Tour guiding and adventure tourism offer a path into travel work without a college degree. You get paid to share places you love with people who want to experience them. The industry ranges from city walking tours to multi-day wilderness expeditions.
 
-This matters for Sam because entry barriers are low. Most positions require only a high school diploma and enthusiasm. Some roles provide housing. All provide a lifestyle where work and travel overlap. The trade-off is clear: income is often seasonal, tips-dependent, and physically demanding. But you learn skills that transfer to outdoor education, hospitality management, or starting your own operation.
+This matters for young adults because entry barriers are low. Most positions require only a high school diploma and enthusiasm. Some roles provide housing. All provide a lifestyle where work and travel overlap. The trade-off is clear: income is often seasonal, tips-dependent, and physically demanding. But you learn skills that transfer to outdoor education, hospitality management, or starting your own operation.
 
 Two main paths exist: urban tour guiding and adventure tourism guiding. Urban guides work in cities giving walking tours, bus tours, or specialty tours focused on food, history, or neighborhoods. Adventure guides work for outfitters running rafting trips, hiking expeditions, kayak tours, or multi-sport adventures. The skills overlap but the certifications differ.
 

@@ -8,7 +8,7 @@
 
 Conservation corps are service programs where you work on public lands and in communities. You build trails. You fight wildfires. You restore habitats. You respond to disasters. In exchange, you get paid a stipend, gain hands-on skills, and often earn an AmeriCorps education award.
 
-This model works for Sam because it solves the immediate problem of needing income while building toward something. Most corps provide housing or help you find it. The work is physical and meaningful. You leave with certifications, references, and a pathway into federal land management jobs.
+This model works for young adults because it solves the immediate problem of needing income while building toward something. Most corps provide housing or help you find it. The work is physical and meaningful. You leave with certifications, references, and a pathway into federal land management jobs.
 
 The catch: the pay is low. The work is hard. You may spend weeks camping in remote locations with no showers. You will swing tools for 8-10 hours a day in heat, rain, or snow. This is not a nature retreat. It is manual labor outdoors.
 

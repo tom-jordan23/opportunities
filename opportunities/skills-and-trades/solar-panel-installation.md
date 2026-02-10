@@ -8,7 +8,7 @@
 
 Solar panel installation is one of the fastest-growing trades in the United States. The Bureau of Labor Statistics projects 42% job growth from 2024 to 2034. That growth rate outpaces nearly every other occupation in the country.
 
-This path works well for someone in Sam's situation. Most employers hire entry-level workers with no experience and train them on the job. You start earning immediately. No upfront tuition or certification costs are required to get started.
+This path works well for someone in a young person's situation. Most employers hire entry-level workers with no experience and train them on the job. You start earning immediately. No upfront tuition or certification costs are required to get started.
 
 The work is physically demanding. You spend most of your time on rooftops, often in extreme temperatures. Seasonal slowdowns and weather cancellations affect your hours and income. If you are uncomfortable with heights or heat, this is not the right path.
 

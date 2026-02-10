@@ -10,7 +10,7 @@ The Peace Corps is a U.S. government agency that sends American volunteers to wo
 
 This is a serious commitment. You will live in a foreign country with limited amenities. You will work on community development projects in one of six sectors: education, health, agriculture, environment, youth development, or community economic development. You will learn a new language. You will experience culture shock, isolation, and professional frustrations.
 
-**Critical for Sam:** Most Peace Corps positions require a bachelor's degree. However, some positions accept candidates with 3-5 years of relevant work experience instead of a degree. At 20 without a degree, Sam would need to either gain several years of relevant experience first or pursue this opportunity after completing education. This document explains both the standard path and the alternatives.
+**Critical for young adults:** Most Peace Corps positions require a bachelor's degree. However, some positions accept candidates with 3-5 years of relevant work experience instead of a degree. At 20 without a degreeyou would need to either gain several years of relevant experience first or pursue this opportunity after completing education. This document explains both the standard path and the alternatives.
 
 What makes Peace Corps worth considering despite the barriers:
 - Full support while serving. Housing, living allowance, health care, and travel costs are covered.
@@ -60,7 +60,7 @@ The work is relationship-based. You do not arrive with a predetermined project a
 ### Basic Eligibility
 - **Citizenship:** U.S. citizen only. No exceptions.
 - **Age:** 18 or older. No upper age limit. The average volunteer age is 28, but volunteers range from 18 to over 80.
-- **Education:** This is the critical barrier for Sam. Most positions require a bachelor's degree. Some positions accept 3-5 years of relevant professional experience instead. A few positions may accept an associate's degree combined with relevant work experience.
+- **Education:** This is the critical barrier for young adults. Most positions require a bachelor's degree. Some positions accept 3-5 years of relevant professional experience instead. A few positions may accept an associate's degree combined with relevant work experience.
 - **Health:** You must pass medical clearance. Peace Corps will assess whether your physical and mental health conditions can be accommodated at overseas sites with limited medical facilities.
 - **Legal:** You must pass background and legal clearance. Some criminal history may be disqualifying.
 - **Availability:** You must be able to commit to 27 months abroad. You cannot maintain a U.S. job or take classes during service.
@@ -73,9 +73,9 @@ Peace Corps states that some positions are open to candidates with work experien
 - **Associate's degree plus relevant work experience** may qualify for some positions
 - **3-5 years of professional experience** can make candidates competitive, especially in agriculture, trades, or community development
 
-To be realistic: positions that do not require a degree are less common. They tend to be in sectors where hands-on skills matter more than formal education. Sam would need to spend several years building relevant experience before becoming a competitive candidate.
+To be realistic: positions that do not require a degree are less common. They tend to be in sectors where hands-on skills matter more than formal education. you would need to spend several years building relevant experience before becoming a competitive candidate.
 
-**Practical path for Sam:** Spend 3-5 years gaining experience in agriculture (farming, food security organizations), community development (nonprofit work, business development), or youth programming. Then apply to positions in those sectors. Alternatively, pursue education and apply after completing a degree.
+**Practical path for young adults:** Spend 3-5 years gaining experience in agriculture (farming, food security organizations), community development (nonprofit work, business development), or youth programming. Then apply to positions in those sectors. Alternatively, pursue education and apply after completing a degree.
 
 ### Physical and Mental Preparation
 - You must handle living without consistent electricity, running water, or internet
@@ -254,7 +254,7 @@ The application process takes 7-9 months from submission to departure. Here are 
 - Invitation to departure: 3-5 months
 - Total: 7-9 months typical
 
-**For Sam specifically:** Given degree requirements, consider applying 3-5 years from now after gaining relevant work experience. Use the time to:
+**For young adults specifically:** Given degree requirements, consider applying 3-5 years from now after gaining relevant work experience. Use the time to:
 - Gain experience in agriculture, community development, youth work, or health
 - Volunteer with relevant organizations
 - Learn basic skills in a commonly-needed language (Spanish, French)
@@ -351,7 +351,7 @@ Common themes from returned Peace Corps volunteers:
 
 ## Related Opportunities
 
-For Sam at 20 without a degree, these alternatives may be more immediately accessible:
+For young adults at 20 without a degree, these alternatives may be more immediately accessible:
 
 - [AmeriCorps NCCC](americorps-nccc.md) - Domestic service, 18-26, no degree required
 - [AmeriCorps VISTA](americorps-vista.md) - Domestic service focused on poverty
@@ -359,7 +359,7 @@ For Sam at 20 without a degree, these alternatives may be more immediately acces
 - [Working Holiday Visas](../work-and-travel/working-holiday-visa-australia.md) - International experience while working
 - [Conservation Corps](conservation-corps.md) - Outdoor service work, no degree required
 
-If Sam pursues education first:
+If you pursues education first:
 - Peace Corps becomes accessible with a bachelor's degree
 - Teaching English abroad (TEFL) is another international option
 

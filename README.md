@@ -1,4 +1,4 @@
-# Sam's Opportunity Guide
+# Alternative Paths Guide
 
 A curated collection of paths for building a life without traditional college. Every opportunity here has been researched and fact-checked. No empty promises—just honest information about what each path requires, what it pays, and what it actually looks like day-to-day.
 
@@ -22,11 +22,13 @@ A curated collection of paths for building a life without traditional college. E
 | If you want... | Consider these first |
 |----------------|---------------------|
 | Immediate income + housing | Ski resorts, Alaska fishing, dude ranches, summer camps, cruise ships |
-| Learn a trade with good pay | Union apprenticeships, solar installation, warehouse/forklift |
+| Learn a trade (paid training) | IBEW electrician, plumbing, union construction apprenticeships |
+| Learn a trade (fast start) | EMT, warehouse/forklift, solar installation, wildland firefighting |
+| High earning potential | Welding (specialty), merchant marine, IBEW electrician, heavy equipment |
 | Travel internationally | Working holiday visas (Australia, NZ, Canada), au pair programs, cruise ships |
 | Meaningful work + structure | AmeriCorps (NCCC, VISTA, City Year), Conservation Corps, Peace Corps |
 | Flexible schedule | Gig work, virtual assistant, seasonal jobs, tour guiding |
-| Federal job pathway | NPS seasonal, Forest Service, SCA, FEMA Corps |
+| Federal job pathway | NPS seasonal, Forest Service, wildland fire, SCA, FEMA Corps |
 | Disaster relief + skills | Team Rubicon, All Hands and Hearts, Habitat AmeriCorps |
 | Minimal startup costs | AmeriCorps programs, Conservation Corps, hostel work exchange |
 
@@ -64,9 +66,20 @@ A curated collection of paths for building a life without traditional college. E
 | Opportunity | Training Cost | Starting Pay | Time to Job |
 |-------------|---------------|--------------|-------------|
 | [Union Construction Apprenticeship](opportunities/skills-and-trades/union-construction-apprenticeship.md) | Free (paid training) | $18-25/hr | 1-6 months |
+| [Electrician Apprenticeship (IBEW)](opportunities/skills-and-trades/electrician-ibew.md) | Free (paid training) | $18-24/hr | 1-6 months |
+| [Plumbing Apprenticeship](opportunities/skills-and-trades/plumbing-apprenticeship.md) | Free (paid training) | $17-22/hr | 1-6 months |
+| [HVAC Technician](opportunities/skills-and-trades/hvac-technician.md) | $5,000-15,000 | $18-25/hr | 6-24 months |
+| [Welding Certification](opportunities/skills-and-trades/welding-certification.md) | $5,000-15,000 | $18-25/hr | 6-12 months |
+| [EMT Certification](opportunities/skills-and-trades/emt-certification.md) | $500-2,000 | $15-20/hr | 3-6 months |
+| [Wildland Firefighting](opportunities/skills-and-trades/wildland-firefighting.md) | Free | $15-23/hr + OT | Seasonal hire |
+| [CDL / Trucking](opportunities/skills-and-trades/cdl-trucking.md) | $3,000-7,000 | $45-60k/year | 3-8 weeks |
+| [Heavy Equipment Operator](opportunities/skills-and-trades/heavy-equipment-operator.md) | Free-$15,000 | $20-35/hr | 1-6 months |
 | [Solar Panel Installation](opportunities/skills-and-trades/solar-panel-installation.md) | Low | $16-20/hr | Immediate |
+| [Wind Turbine Technician](opportunities/skills-and-trades/wind-turbine-technician.md) | $10,000-25,000 | $20-25/hr | 9-24 months |
+| [Merchant Marine](opportunities/skills-and-trades/merchant-marine.md) | Free-$200,000 | $40-200k/year | 3 months-4 years |
 | [Airport Ground Crew](opportunities/skills-and-trades/airport-ground-crew.md) | Free | $15-20/hr | 2-4 weeks |
 | [Warehouse / Forklift Certification](opportunities/skills-and-trades/warehouse-forklift-certification.md) | $150-500 | $18-25/hr | 1-2 weeks |
+| [Drone Pilot Certification](opportunities/skills-and-trades/drone-pilot-certification.md) | $150-2,000 | Variable | 2-4 weeks |
 | [Self-Taught Web Development](opportunities/skills-and-trades/self-taught-web-development.md) | $0-500 | Variable | 6-12 months |
 
 **Category overview:** [Skills & Trades Overview](opportunities/skills-and-trades/OVERVIEW.md)
@@ -134,15 +147,7 @@ These haven't been fully documented yet but are worth researching:
 ### More Skills & Trades
 | Opportunity | Key Info | Where to Start |
 |-------------|----------|----------------|
-| **CDL Trucking** | 3-8 week training, often company-paid, $45-60k first year, watch for predatory contracts | FMCSA.gov, r/Truckers |
-| **EMT Certification** | 120-180 hours training, $1-3k cost, $15-20/hr starting | NREMT.org, local community college |
-| **Wildland Firefighting** | Seasonal federal work, $23+/hr with OT, physically demanding | USAJobs (search fire), NIFC.gov |
-| **Electrician (IBEW)** | 4-5 year paid apprenticeship, $20-30/hr while training | ibew.org, local union halls |
-| **Welding Certification** | 6-12 month programs, $5-15k cost, $18-25/hr starting | AWS.org, community colleges |
-| **HVAC Technician** | 6-24 month training, $5-15k cost, $18-25/hr starting | Community colleges, trade schools |
-| **Merchant Marine** | Maritime academy or hawsepipe route, good pay, months at sea | MARAD, maritime academies |
-| **Wind Turbine Tech** | 9-24 month programs, $20-25/hr starting, climbing required | Community colleges, Vestas, GE |
-| **Heavy Equipment Operator** | Union apprenticeship or private training, $20-35/hr | IUOE, community colleges |
+| **Aircraft Mechanic (A&P)** | 18-24 month training, $15-25k cost, $60k+ starting | FAA-approved schools, community colleges |
 
 ### More Service & Volunteer
 | Opportunity | Key Info | Where to Start |
@@ -198,6 +203,16 @@ AmeriCorps NCCC → FEMA Corps → Emergency Management careers
                 ↘
 Habitat AmeriCorps → Construction trades → Union apprenticeships
 
+IBEW Electrician → Journeyman ($54/hr) → Contractor → Own business
+
+EMT → Paramedic → Firefighter → Fire Captain
+
+Wildland Fire → Hotshot crew → Permanent federal → Fire management
+
+Welding → Pipeline/underwater specialty → $80-150k+ annually
+
+Merchant Marine → Officer ranks → Captain ($150-200k)
+
 Team Rubicon/All Hands → Disaster management → FEMA careers
 
 Cruise Ships → Hospitality management → Shore-side positions
@@ -217,7 +232,7 @@ Gig Work → Build savings → Van Life → Remote work + travel
 
 ## Project Status
 
-**41 opportunities fully documented and fact-checked.**
+**52 opportunities fully documented and fact-checked.**
 
 See [STATUS.md](STATUS.md) for detailed tracking of what's been researched and verified.
 
@@ -225,13 +240,13 @@ See [STATUS.md](STATUS.md) for detailed tracking of what's been researched and v
 
 ## About This Guide
 
-This guide was built for Sam—20 years old, limited funds, choosing to forge his own path instead of traditional college. Every opportunity has been:
+This guide was built for young adults with limited funds who are choosing to forge their own path instead of traditional college. Every opportunity has been:
 
 - Researched from official sources and real participant experiences
 - Fact-checked for current costs, requirements, and pay rates
 - Screened for scams and predatory practices
 - Written to be honest about both benefits and downsides
 
-The goal is not to sell any particular path, but to give Sam (and anyone in a similar situation) the information needed to make informed decisions.
+The goal is not to sell any particular path, but to give readers the information needed to make informed decisions.
 
 **Last updated:** 2026-02-09
