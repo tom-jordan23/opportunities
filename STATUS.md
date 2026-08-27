@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-02-09
+Last updated: 2026-08-26
 
 ## Summary
 
@@ -10,6 +10,7 @@ Last updated: 2026-02-09
 | Skills & Trades | Done | 0 | 16 | 0 |
 | Service & Volunteer | Done | 0 | 20 | 0 |
 | Entrepreneurship | Done | 0 | 2 | 0 |
+| Local — Walworth WI | Done | 27 | 0 | 0 |
 
 ---
 
@@ -21,6 +22,7 @@ Last updated: 2026-02-09
 | Skills & Trades | Complete | `opportunities/skills-and-trades/OVERVIEW.md` |
 | Service & Volunteer | Complete | `opportunities/service-and-volunteer/OVERVIEW.md` |
 | Entrepreneurship | Complete | `opportunities/entrepreneurship/OVERVIEW.md` |
+| Local — Walworth WI | Complete (needs fact check) | `opportunities/local-walworth-wi/OVERVIEW.md` |
 
 ---
 
@@ -155,6 +157,161 @@ Last updated: 2026-02-09
 
 ---
 
+## Local — Walworth, WI (60-Minute Radius)
+
+New category added 2026-08-26. Scope: employers within ~60 min of Walworth WI that are
+actively recruiting and train on the job. Radius confirmed with user: core Walworth County
+through Janesville/Beloit, Racine/Kenosha, Rockford/Belvidere/McHenry IL, plus the
+Milwaukee/Madison edge ring. Elgin and far NW Chicago suburbs excluded.
+
+**Candidate age: 21** (confirmed 2026-08-26). Clears CDL and alcohol-service minimums.
+Wisconsin Youth Apprenticeship ruled out (HS juniors/seniors only).
+
+### Verified
+(none — all 27 documents await fact-checking)
+
+### Draft (Needs Fact Check) — 27 documents
+
+**Mechanisms (read first)**
+| Document | Confidence |
+|----------|-----------|
+| `wioa-on-the-job-training.md` | Medium |
+| `illinois-workforce-boards.md` | Low-Medium |
+
+**Public safety & government**
+| Document | Confidence |
+|----------|-----------|
+| `correctional-officer.md` | Medium |
+| `911-telecommunicator.md` | Medium |
+| `police-officer-pathway.md` | Medium |
+| `firefighter-emt.md` | Low-Medium |
+| `county-highway-public-works.md` | Medium |
+| `school-district-support-staff.md` | Low |
+
+**Healthcare**
+| Document | Confidence |
+|----------|-----------|
+| `pharmacy-technician.md` | Medium |
+| `sterile-processing-technician.md` | Low-Medium |
+| `orthopedic-cast-technician.md` | Low |
+| `mercyhealth-entry-level.md` | Low |
+| `phlebotomy-patient-care-tech.md` | Low |
+
+**Manufacturing & trades**
+| Document | Confidence |
+|----------|-----------|
+| `industrial-maintenance-apprentice.md` | Medium |
+| `building-trades-apprenticeship.md` | Low-Medium |
+| `kikkoman-production-operator.md` | Low |
+| `generac-production.md` | Low |
+| `cnc-machinist-apprentice.md` | Low |
+
+**Utilities & infrastructure**
+| Document | Confidence |
+|----------|-----------|
+| `electric-line-worker-apprentice.md` | Medium |
+| `water-wastewater-operator.md` | Low-Medium |
+| `arborist-tree-care.md` | Low |
+
+**Transportation & mechanical**
+| Document | Confidence |
+|----------|-----------|
+| `school-bus-driver-cdl.md` | Low-Medium |
+| `diesel-technician-apprentice.md` | Low-Medium |
+| `railroad-conductor.md` | Low-Medium |
+
+**Technology, finance, hospitality**
+| Document | Confidence |
+|----------|-----------|
+| `it-service-desk-apprentice.md` | Low-Medium |
+| `bank-credit-union-teller.md` | Low |
+| `lake-geneva-hospitality.md` | Low |
+
+**Category files:** `OVERVIEW.md` (Low), `README.md` (index)
+
+### Fact Check — Round 1 Complete (2026-08-26)
+
+**11 documents updated with verified data. 3 material corrections made.**
+
+| # | Item | Result |
+|---|------|--------|
+| 1 | Kikkoman pay | **Updated** — band is $21.81-$22.68/hr; bonus $1,000-$2,000. Still not employer-confirmed. |
+| 2 | Correctional Officer pay | **VERIFIED** — min base $33.66/hr, **max base $39.86/hr** (Legislative Fiscal Bureau, as of 6/30/2024). Academy confirmed **seven weeks**. Add-on structure documented ($5 high-vacancy, $3 max-security, $1 medium-security, $5 Waupun). **Discovered DOC's own linked pay PDF is obsolete and understates pay by roughly half.** |
+| 3 | County Highway pay | **VERIFIED $25.08-$32.21/hr** (12/2025 posting). ⚠️ **CORRECTION: requires 2-3 years prior experience — not entry-level.** Document reframed. |
+| 4 | Water/Wastewater pay | **VERIFIED** via City of Whitewater 2026 Salary Resolution. Full ladder: Water Laborer II $22.47 → Operator $27.94-$37.71 → Lead $32.30-$43.60 → Superintendent $37.34-$50.42. |
+| 5 | Mercyhealth CNA program | **Unresolved.** Page returned HTTP 403. Not obtainable publicly — phone call required. |
+| 6 | Illinois cross-state eligibility | **Partly resolved.** Residency rules are state/local, not federal; out-of-area service via inter-board coordination is a recognized arrangement. Board-specific policies still needed. |
+| 7 | Police sponsorship | **Partly verified.** ⚠️ **CORRECTION: academy sponsorship ≠ credit waiver.** Agencies often set their own 60- or 40-credit floor above the state minimum. UW-Madison PD accepts 40. |
+| 8 | Line worker apprentice rate | **Resolved.** Apprentice ~$29/hr (range $25-$38) vs journeyman ~$44 — about ⅔ of scale. **Alliant confirms training is free with full wages** + 70% tuition reimbursement. |
+| 9 | Building trades jurisdiction | Not yet addressed. |
+| 10 | OrthoIllinois | **VERIFIED posting language** — CNA/CMA/ATC/LPN **or ROT within 6 months**, renewed every 2 years; HS diploma required; 1 year experience **preferred not required**. ⚠️ ROT-vs-six-month discrepancy **survives** — ASOP requires 1 year casting experience. |
+| 11 | Railroad local basing | Not yet addressed. |
+| 12 | School bus $30/hr & repayment | Not yet addressed. |
+| 13 | Generac direct-hire vs temp | Not yet addressed. |
+
+### Key Discovery: City of Whitewater 2026 Salary Resolution
+A published municipal wage schedule effective 1/1/2026 for a city **inside the radius**. It closed
+pay gaps in five documents at once and is the single most useful source found. Selected figures:
+
+| Position | Grade | Min | Mid | Max |
+|---|---|---|---|---|
+| Seasonal Laborer | — | $12.10 | — | $17.92 |
+| Dispatcher II | G | $20.90 | $24.55 | $28.21 |
+| Water/Wastewater Laborer II, Dispatcher I | H | $22.47 | $26.40 | $30.34 |
+| Fire Inspector EMT/Firefighter | I | $24.16 | $28.39 | $32.62 |
+| Laborer I, Water Laborer I, Wastewater Specialist I | J | $25.98 | $30.53 | $35.07 |
+| **Water Operator, Wastewater Operator, IT Support Technician**, Lead Laborer | K | **$27.94** | $32.82 | $37.71 |
+| Lead Operator, EMS Chief | M | $32.30 | $37.95 | $43.60 |
+| Water/Wastewater Superintendent | O | $37.34 | $43.88 | $50.42 |
+
+**Equivalent schedules should be pulled for Lake Geneva, Elkhorn, Delavan, Walworth, and Janesville.**
+
+### Round 2 Priority
+1. Building trades jurisdiction — which local covers Walworth County, per trade
+2. School bus — verify doubtful $30/hr figure and check for CDL training repayment clauses
+3. Generac — direct hire vs. temp-to-hire; growth vs. turnover
+4. Railroad — whether any conductor job is based within the radius; research Metra specifically
+5. Pull Lake Geneva / Elkhorn / Delavan / Walworth salary schedules
+6. Sterile processing, phlebotomy, pharmacy tech, bank teller, hospitality, school district — local pay
+7. Confirm 2026 general wage adjustment for state correctional officers
+
+### Items only a phone call can resolve
+These are not research failures — they are genuinely not public.
+- Mercyhealth CNA program: cost, whether paid, whether employment follows
+- Whether any local employer sponsors a registered apprenticeship (any trade)
+- Whether Southeastern WoRKs has active OJT contracts, and with which employers
+- Kikkoman: direct hire vs. staffing agency; exact current rate and bonus terms
+- OrthoIllinois: how a new hire meets ROT's one-year requirement on a six-month clock
+- Each police agency's own credit floor
+
+### Blockers / Open Questions
+| Item | Issue |
+|------|-------|
+| OrthoIllinois requirements | Career center routes to external UKG/UltiPro portal, not readable. Needs HR contact (815-398-9491) or a live posting. |
+| `kfijobs.com` | Connection refused on 2026-08-26. Kikkoman applications may need in-person or Elkhorn Job Center route. |
+| DWD line worker page | Returned HTTP 403 on 2026-08-26. Retry needed. |
+| Cross-state WIOA eligibility | Unknown whether a Walworth County WI resident qualifies for Illinois board services. |
+| Local apprenticeship sponsors | **No specific employer in the radius has been confirmed as an active registered apprenticeship sponsor for any trade.** Biggest gap across the category. Three phone numbers in README are the route to closing it. |
+| Drive times | All estimated, none measured. |
+| Building trades jurisdiction | Which IBEW/plumbers/pipefitters local covers Walworth County is unresolved. |
+| ~~Subject age~~ | **Resolved 2026-08-26: 21.** |
+
+### Coverage Gaps (still not documented)
+- Retail and grocery management training pathways
+- Welding — local employer-sponsored routes specifically (national doc exists)
+- Snap-on, SC Johnson, Nestlé — named but not individually researched
+- Beloit food/industrial cluster (Kerry, Frito-Lay, ABC Supply)
+- Milwaukee edge-ring employers (Regal Rexnord, Rockwell, Harley-Davidson)
+- Advocate Aurora / Beloit Health System / SSM / OSF — named but not individually researched
+- Insurance and claims trainee roles
+- Landscaping (non-arborist) and grounds management
+
+### Category-Specific Convention
+Document the **employer's hiring pattern**, not individual job requisitions — postings expire
+in weeks. Re-verify pay and hiring status every **3 months**, not 12.
+
+---
+
 ## Retry Queue
 
 (empty - all previously stuck items resolved)
@@ -238,6 +395,16 @@ The README.md now includes quick reference tables for additional opportunities n
 | 2026-02-09 | Researched: Merchant Marine, Wind Turbine Tech, Drone Pilot | 3 drafts |
 | 2026-02-09 | Fact-checked: Merchant Marine, Wind Turbine, Drone Pilot | Verified |
 | 2026-02-09 | **Total verified documents** | **52 documents** |
+| 2026-08-26 | Scanned repo; scoped new Local — Walworth WI category with user | Complete |
+| 2026-08-26 | Created `local-walworth-wi/OVERVIEW.md` landscape map | Draft (needs fact check) |
+| 2026-08-26 | Added local research queue to IDEAS.md (34 items) | Complete |
+| 2026-08-26 | Researched & drafted 16 local opportunity documents across 6 sectors | 16 drafts |
+| 2026-08-26 | Created `local-walworth-wi/README.md` category index | Complete |
+| 2026-08-26 | Confirmed candidate age 21; applied corrections across category | Complete |
+| 2026-08-26 | Researched & drafted 11 further local documents (healthcare, public safety, trades, finance, education, hospitality, IL boards) | 11 drafts |
+| 2026-08-26 | **Total documents** | **52 verified + 29 local drafts** |
+| 2026-08-26 | Fact-check round 1: 11 documents updated, 3 material corrections | Complete |
+| 2026-08-26 | Located City of Whitewater 2026 Salary Resolution — closed 5 pay gaps | Key source |
 
 ---
 

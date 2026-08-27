@@ -11,6 +11,7 @@ A curated collection of paths for building a life without traditional college. E
 - **Need money now?** Start with [Work & Travel](#work--travel) or [Skills & Trades](#skills--trades)
 - **Have 6+ months and want structure?** Look at [Service & Volunteer](#service--volunteer)
 - **Want location independence?** Check [Entrepreneurship](#entrepreneurship)
+- **Want to stay near Walworth, WI?** See [Local — Walworth WI](#local--walworth-wi-60-minute-radius)
 - **No savings at all?** Focus on opportunities marked with 🏠 (housing provided)
 
 **Read the "Hard Parts" section of any opportunity before committing.** Every path has downsides. Knowing them upfront prevents wasted time and money.
@@ -31,6 +32,7 @@ A curated collection of paths for building a life without traditional college. E
 | Federal job pathway | NPS seasonal, Forest Service, wildland fire, SCA, FEMA Corps |
 | Disaster relief + skills | Team Rubicon, All Hands and Hearts, Habitat AmeriCorps |
 | Minimal startup costs | AmeriCorps programs, Conservation Corps, hostel work exchange |
+| Stay home and get trained | Local — Walworth WI: job center OJT, county jobs, local apprenticeships |
 
 ---
 
@@ -130,6 +132,48 @@ A curated collection of paths for building a life without traditional college. E
 | [Virtual Assistant Work](opportunities/entrepreneurship/virtual-assistant-work.md) | Computer + internet | $500-3,000/mo | Low-Medium |
 
 **Category overview:** [Entrepreneurship Overview](opportunities/entrepreneurship/OVERVIEW.md)
+
+---
+
+### Local — Walworth WI (60-Minute Radius)
+*Stay home, commute, get paid from day one of training. Every other category assumes you leave.*
+
+> **Status: Draft.** These 27 documents have not yet been fact-checked. Pay figures come from
+> job-board aggregation rather than employers. Each document lists its own open questions.
+> Written for a 21-year-old.
+
+| Opportunity | Sector | Reported Entry Pay | Startup Cost |
+|-------------|--------|--------------------|--------------|
+| [Correctional Officer](opportunities/local-walworth-wi/correctional-officer.md) | Public safety | $33.66/hr (2025) | $0 |
+| [County Highway & Public Works](opportunities/local-walworth-wi/county-highway-public-works.md) | Government | Unknown | CDL |
+| [911 Telecommunicator](opportunities/local-walworth-wi/911-telecommunicator.md) | Public safety | $26.25/hr (2025) | $0 |
+| [School Bus Driver (Paid CDL)](opportunities/local-walworth-wi/school-bus-driver-cdl.md) | Transportation | ~$24/hr | $0 |
+| [Production Operator — Kikkoman](opportunities/local-walworth-wi/kikkoman-production-operator.md) | Manufacturing | $21.81/hr + bonus | ~$100 |
+| [Diesel Technician Apprentice](opportunities/local-walworth-wi/diesel-technician-apprentice.md) | Mechanical | ~$20-21/hr | Tools |
+| [Production & Assembly — Generac](opportunities/local-walworth-wi/generac-production.md) | Manufacturing | $19.85/hr + premiums | ~$100 |
+| [Orthopedic / Cast Technician](opportunities/local-walworth-wi/orthopedic-cast-technician.md) | Healthcare | ~$19-31/hr | Low |
+| [Bank / Credit Union Teller](opportunities/local-walworth-wi/bank-credit-union-teller.md) | Finance | ~$15-19/hr | Clothing |
+| [Sterile Processing Technician](opportunities/local-walworth-wi/sterile-processing-technician.md) | Healthcare | ~$16-22/hr | Low |
+| [CNC Machinist Apprentice](opportunities/local-walworth-wi/cnc-machinist-apprentice.md) | Manufacturing | ~$16-25/hr | Tools |
+| [Railroad Conductor Trainee](opportunities/local-walworth-wi/railroad-conductor.md) | Transportation | $205.69/day training | Low |
+| [Firefighter / EMT](opportunities/local-walworth-wi/firefighter-emt.md) | Public safety | Career ~$59,958/yr | Low |
+| [Electric Line Worker Apprentice](opportunities/local-walworth-wi/electric-line-worker-apprentice.md) | Utilities | Unknown | CDL |
+| [Building Trades Apprenticeship](opportunities/local-walworth-wi/building-trades-apprenticeship.md) | Trades | Unknown | Tools + dues |
+| [Industrial Maintenance Apprentice](opportunities/local-walworth-wi/industrial-maintenance-apprentice.md) | Manufacturing | Unknown | Tools |
+| [Police Officer Pathway](opportunities/local-walworth-wi/police-officer-pathway.md) | Public safety | Unknown | 60 credits |
+| [Water / Wastewater Operator](opportunities/local-walworth-wi/water-wastewater-operator.md) | Utilities | Unknown | $0 |
+| [Mercyhealth Entry-Level & CNA](opportunities/local-walworth-wi/mercyhealth-entry-level.md) | Healthcare | Unknown | Unknown |
+| [Phlebotomy / Patient Care Tech](opportunities/local-walworth-wi/phlebotomy-patient-care-tech.md) | Healthcare | Unknown | Low |
+| [Arborist / Tree Care](opportunities/local-walworth-wi/arborist-tree-care.md) | Outdoor trade | Unknown | Boots |
+| [IT Service Desk Apprentice](opportunities/local-walworth-wi/it-service-desk-apprentice.md) | Technology | Unknown | $0 |
+| [Lake Geneva Hospitality](opportunities/local-walworth-wi/lake-geneva-hospitality.md) | Hospitality | Unknown | Low |
+| [School District Support Staff](opportunities/local-walworth-wi/school-district-support-staff.md) | Education | Unknown | $0 |
+| [Pharmacy Technician](opportunities/local-walworth-wi/pharmacy-technician.md) | Healthcare | Low | **$30** |
+| [WIOA On-the-Job Training](opportunities/local-walworth-wi/wioa-on-the-job-training.md) | Mechanism | Varies | $0 |
+| [Illinois Workforce Boards](opportunities/local-walworth-wi/illinois-workforce-boards.md) | Mechanism | Up to $10,000 funding | $0 |
+
+**Category index:** [Local — Walworth WI](opportunities/local-walworth-wi/README.md)
+**Category overview:** [Overview & training mechanisms](opportunities/local-walworth-wi/OVERVIEW.md)
 
 ---
 

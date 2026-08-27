@@ -153,13 +153,77 @@ Backlog of opportunities to research and document. Prioritized by fit for young 
 
 ---
 
+## Local — Walworth, WI (60-Minute Radius)
+
+Geographically bounded track: employers within ~60 min of Walworth WI that are actively
+recruiting and train on the job. Radius includes core Walworth County, Janesville/Beloit,
+Racine/Kenosha, Rockford/Belvidere/McHenry IL, and the Milwaukee/Madison edge ring.
+Excludes Elgin and the far NW Chicago suburbs.
+
+See `opportunities/local-walworth-wi/OVERVIEW.md` for the landscape map.
+
+### Training Mechanisms (document these first — they unlock everything else)
+- [x] [HIGH] WIOA On-the-Job Training via Walworth County Job Center / Southeastern WoRKs ✓ DRAFTED
+- [x] [HIGH] Wisconsin Registered Apprenticeship — how to enter locally ✓ DRAFTED
+- [x] [MED] Illinois-side workforce boards (Winnebago, McHenry) ✓ DRAFTED
+- [~] [N/A] Wisconsin Youth Apprenticeship — **ruled out: candidate is 21** (HS juniors/seniors only)
+
+### Healthcare Support
+- [x] [HIGH] Orthopedic / cast technician — OrthoIllinois (the archetype) ✓ DRAFTED
+- [x] [HIGH] Mercyhealth entry-level support roles + Nursing Assistant Training Program ✓ DRAFTED
+- [x] [HIGH] Sterile processing technician (regional hospitals) ✓ DRAFTED
+- [x] [MED] Patient care technician / monitor tech / phlebotomy ✓ DRAFTED
+- [ ] [MED] Advocate Aurora entry-level (Burlington, Elkhorn, Kenosha)
+- [ ] [MED] Beloit Health System / SSM Janesville / OSF Rockford
+- [x] [LOW] Pharmacy technician (trainee-to-registered path) ✓ DRAFTED
+
+### Manufacturing & Industrial
+- [x] [HIGH] Kikkoman Foods, Walworth WI — production operator (10 min from home) ✓ DRAFTED
+- [x] [HIGH] Generac, Whitewater — assembly and production ✓ DRAFTED
+- [x] [MED] Industrial maintenance technician (multi-employer) ✓ DRAFTED
+- [x] [MED] CNC machinist / tool & die apprentice — Rockford cluster ✓ DRAFTED
+- [x] [MED] Diesel / heavy truck technician apprentice ✓ DRAFTED
+- [x] [MED] IT service desk technician apprentice ✓ DRAFTED
+- [ ] [MED] Snap-on (Kenosha/Elkhorn), SC Johnson (Racine), Nestle (Burlington)
+- [ ] [MED] Beloit food/industrial cluster (Kerry, Frito-Lay, ABC Supply)
+- [ ] [LOW] Milwaukee edge ring (Regal Rexnord, Rockwell, Harley-Davidson)
+
+### Utilities, Trades & Infrastructure
+- [x] [HIGH] Water / wastewater operator — municipal, trains and certifies you ✓ DRAFTED
+- [x] [HIGH] Electric line worker apprenticeship — Alliant, We Energies, ComEd ✓ DRAFTED
+- [x] [MED] IBEW Local 127 (Rockford) and Local 430 (Racine) intake ✓ DRAFTED
+- [x] [HIGH] County highway / WisDOT / public works ✓ DRAFTED
+- [x] [MED] Rail — Union Pacific, CPKC (conductor trainee) ✓ DRAFTED
+- [x] [LOW] Plumbers & pipefitters local intake ✓ DRAFTED (in building-trades doc)
+
+### Public Service & People-Facing
+- [x] [HIGH] 911 dispatcher / telecommunicator — trained from zero ✓ DRAFTED
+- [x] [HIGH] Walworth County & Rock County government entry-level ✓ DRAFTED (in public-works doc)
+- [x] [HIGH] Police officer pathway ✓ DRAFTED
+- [x] [HIGH] Firefighter / EMT paid-on-call to career ✓ DRAFTED
+- [x] [MED] Correctional officer ✓ DRAFTED
+- [x] [HIGH] School bus driver — employer-paid CDL ✓ DRAFTED
+- [x] [MED] School district support staff (paraprofessional, custodial, food service) ✓ DRAFTED
+- [x] [LOW] Lake Geneva hospitality year-round (Grand Geneva, Geneva National) ✓ DRAFTED
+- [x] [MED] Bank / credit union teller ✓ DRAFTED
+- [x] [MED] Arborist / tree care groundworker ✓ DRAFTED
+
+---
+
 ## Research Queue
 
 Next opportunities for Researcher to tackle (Coordinator assigns):
 
-1.
-2.
-3.
+**Local track: 27 documents drafted 2026-08-26. The research queue is complete.**
+**Next step is fact-checking, not more research.** See `STATUS.md` for the priority order.
+
+Remaining local coverage gaps (lower priority):
+1. Welding — local employer-sponsored routes specifically
+2. Snap-on, SC Johnson, Nestlé — named in the overview, not individually researched
+3. Beloit food/industrial cluster (Kerry, Frito-Lay, ABC Supply)
+4. Advocate Aurora / Beloit Health System / SSM / OSF — not individually researched
+5. Retail and grocery management training pathways
+6. Insurance and claims trainee roles
 
 ---
 
